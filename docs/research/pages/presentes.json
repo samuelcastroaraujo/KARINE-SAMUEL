@@ -1,0 +1,4588 @@
+{
+  "title": "Amábilly & Gabriel",
+  "url": "https://www.amabillyegabriel.com/pt/presentes",
+  "scrollH": 6774,
+  "sections": [
+    {
+      "i": 0,
+      "tag": "section",
+      "cls": "GiftListPage_container__ig13U",
+      "h": 6735,
+      "text": "Cortina para janelaR$ 90,00CompradoAir FryerR$ 500,00CompradoUtensílios de cozinhaR$ 40,00CompradoConjunto de taças para sobremesaR$ 65,00CompradoFaqueiroR$ 250,00CompradoJantar romântico na lua de me"
+    }
+  ],
+  "dom": {
+    "tag": "main",
+    "cls": "",
+    "sty": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "6735.06px",
+      "display": "flex",
+      "flexDirection": "column",
+      "alignItems": "center",
+      "border": "0px none rgb(0, 0, 0)",
+      "overflow": "visible",
+      "position": "static",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "textAlign": "start"
+    },
+    "box": {
+      "w": 1440,
+      "h": 6735
+    },
+    "ch": [
+      {
+        "tag": "section",
+        "cls": "GiftListPage_container__ig13U",
+        "sty": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://www.amabillyegabriel.com/giftpage/bg.jpg\")",
+          "backgroundSize": "cover",
+          "backgroundPosition": "50% 25%",
+          "padding": "164px 64px",
+          "width": "1440px",
+          "height": "6735.06px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "textAlign": "start"
+        },
+        "box": {
+          "w": 1440,
+          "h": 6735
+        },
+        "ch": [
+          {
+            "tag": "div",
+            "cls": "GiftListPage_productsContainer__qOF93",
+            "sty": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "width": "1312px",
+              "height": "6407.06px",
+              "maxWidth": "2400px",
+              "minHeight": "900px",
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "center",
+              "gap": "44px 34px",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "textAlign": "center"
+            },
+            "box": {
+              "w": 1312,
+              "h": 6407
+            },
+            "ch": [
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcortina-janela.jpg&w=1920&q=75",
+                          "alt": "Cortina para janela"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Cortina para janela",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "198.891px",
+                      "height": "44px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 199,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 90,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "71.9375px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 72,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fair%2520fryer.jpg&w=1920&q=75",
+                          "alt": "Air Fryer"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Air Fryer",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "89.2656px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 89,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 500,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "82.2969px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 82,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Futensilios.jpg&w=1920&q=75",
+                          "alt": "Utensílios de cozinha"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Utensílios de cozinha",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "198.891px",
+                      "height": "44px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 199,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 40,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "72.375px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 72,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fsobremesa.jpg&w=1920&q=75",
+                          "alt": "Conjunto de taças para sobremesa"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Conjunto de taças para sobremesa",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "198.891px",
+                      "height": "44px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 199,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 65,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "71.2031px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 71,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Ffaqueiro.jpg&w=1920&q=75",
+                          "alt": "Faqueiro"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Faqueiro",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "87.0781px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 87,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 250,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "81.5781px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 82,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fromantic-dinner.jpg&w=1920&q=75",
+                          "alt": "Jantar romântico na lua de mel"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Jantar romântico na lua de mel",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "198.891px",
+                      "height": "44px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 199,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 250,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "81.5781px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 82,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fpotes.jpg&w=1920&q=75",
+                          "alt": "Potes plásticos"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Potes plásticos",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "161px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 161,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 60,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "71.9375px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 72,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fferro.jpg&w=1920&q=75",
+                          "alt": "Ferro de passar"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Ferro de passar",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "159px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 159,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 90,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "71.9375px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 72,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fx%C3%ADcaras.jpg&w=1920&q=75",
+                          "alt": "Conjunto de xícaras"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Conjunto de xícaras",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "198.891px",
+                      "height": "44px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 199,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 120,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "78.5312px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 79,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fformas%2520e%2520assaddiras.jpg&w=1920&q=75",
+                          "alt": "Formas e assadeiras"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Formas e assadeiras",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "198.891px",
+                      "height": "44px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 199,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 220,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "81.7031px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 82,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fventilador.jpg&w=1920&q=75",
+                          "alt": "Ventilador"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Ventilador",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "111.5px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 112,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 250,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "81.5781px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 82,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fta%C3%A7as.jpg&w=1920&q=75",
+                          "alt": "Conjunto de taças"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Conjunto de taças",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "190.469px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 190,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 160,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "78.8438px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 79,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fpurificador.jpg&w=1920&q=75",
+                          "alt": "Purificador de água"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Purificador de água",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "198.891px",
+                      "height": "44px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 199,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 900,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "82.7344px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 83,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fvaral-dobravel.jpg&w=1920&q=75",
+                          "alt": "Varal dobrável"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Varal dobrável",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "154.062px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 154,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 80,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "71.9688px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 72,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Ft%C3%A1bua%2520de%2520passar.jpg&w=1920&q=75",
+                          "alt": "Tábua de passar"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Tábua de passar",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "160.219px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 160,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 150,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "78.4062px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 78,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "391.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 392
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Farroz.jpg&w=1920&q=75",
+                          "alt": "Panela elétrica de arroz"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Panela elétrica de arroz",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "198.891px",
+                      "height": "44px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 199,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 200,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "82.4219px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 82,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "369.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 370
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fjarras.jpg&w=1920&q=75",
+                          "alt": "Jarras"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Jarras",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "67.7656px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 68,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 65,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "71.2031px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 71,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "369.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 370
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcortina.jpg&w=1920&q=75",
+                          "alt": "Cortina para porta"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Cortina para porta",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "193.109px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 193,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 150,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "78.4062px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 78,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "369.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 370
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fmesa%2520de%2520centro.jpg&w=1920&q=75",
+                          "alt": "Mesa de centro"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Mesa de centro",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "155.766px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 156,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 350,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "81.8281px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 82,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "ProductCard_card__QgVx5",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(255, 255, 255, 0.44)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "32px",
+                  "width": "300px",
+                  "height": "369.938px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "alignItems": "center",
+                  "gap": "16px",
+                  "borderRadius": "18px",
+                  "border": "1px solid rgb(221, 221, 221)",
+                  "boxShadow": "rgba(0, 0, 0, 0.25) 0px 4px 8px 0px",
+                  "overflow": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 300,
+                  "h": 370
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "ProductCard_imageContainer__Tgp3C",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "210.594px",
+                      "height": "157.938px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "borderRadius": "12px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 211,
+                      "h": 158
+                    },
+                    "ch": [
+                      {
+                        "tag": "img",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgba(0, 0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "210.594px",
+                          "height": "157.938px",
+                          "maxWidth": "100%",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "borderRadius": "8px",
+                          "border": "0px none rgba(0, 0, 0, 0)",
+                          "overflow": "clip",
+                          "position": "absolute",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "cover",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 211,
+                          "h": 158
+                        },
+                        "img": {
+                          "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fliquidificador.jpg&w=1920&q=75",
+                          "alt": "Liquidificador"
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "ProductCard_productName__la0Lb",
+                    "text": "Liquidificador",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "Inter",
+                      "lineHeight": "22px",
+                      "letterSpacing": "1px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "141.859px",
+                      "height": "22px",
+                      "maxWidth": "85%",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 142,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "ProductCard_price__zyGMa",
+                    "text": "R$ 120,00",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "700",
+                      "fontFamily": "Inter",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "78.5312px",
+                      "height": "20px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 79,
+                      "h": 20
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "button",
+                    "cls": "Button_button__aJ0V6 Button_primary-strong__KpQ_C Button_disabled__NY0Op false",
+                    "text": "Comprado",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "600",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "26px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.5)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "13px 23px",
+                      "width": "137.359px",
+                      "height": "56px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "borderRadius": "30px",
+                      "border": "2px solid rgba(0, 0, 0, 0.25)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                      "transition": "font-family 0.25s",
+                      "objectFit": "fill",
+                      "textAlign": "center"
+                    },
+                    "box": {
+                      "w": 137,
+                      "h": 56
+                    },
+                    "ch": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "imgs": [
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=%2Flogo-teste.png&w=48&q=75",
+      "alt": "amabilly-gabriel-logo",
+      "w": 48,
+      "h": 72,
+      "cw": 40,
+      "ch": 60
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcortina-janela.jpg&w=1920&q=75",
+      "alt": "Cortina para janela",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fair%2520fryer.jpg&w=1920&q=75",
+      "alt": "Air Fryer",
+      "w": 423,
+      "h": 522,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Futensilios.jpg&w=1920&q=75",
+      "alt": "Utensílios de cozinha",
+      "w": 423,
+      "h": 563,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fsobremesa.jpg&w=1920&q=75",
+      "alt": "Conjunto de taças para sobremesa",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Ffaqueiro.jpg&w=1920&q=75",
+      "alt": "Faqueiro",
+      "w": 422,
+      "h": 434,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fromantic-dinner.jpg&w=1920&q=75",
+      "alt": "Jantar romântico na lua de mel",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fpotes.jpg&w=1920&q=75",
+      "alt": "Potes plásticos",
+      "w": 552,
+      "h": 570,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fferro.jpg&w=1920&q=75",
+      "alt": "Ferro de passar",
+      "w": 551,
+      "h": 367,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fx%C3%ADcaras.jpg&w=1920&q=75",
+      "alt": "Conjunto de xícaras",
+      "w": 1440,
+      "h": 1091,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fformas%2520e%2520assaddiras.jpg&w=1920&q=75",
+      "alt": "Formas e assadeiras",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fventilador.jpg&w=1920&q=75",
+      "alt": "Ventilador",
+      "w": 423,
+      "h": 634,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fta%C3%A7as.jpg&w=1920&q=75",
+      "alt": "Conjunto de taças",
+      "w": 423,
+      "h": 564,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fpurificador.jpg&w=1920&q=75",
+      "alt": "Purificador de água",
+      "w": 799,
+      "h": 900,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fvaral-dobravel.jpg&w=1920&q=75",
+      "alt": "Varal dobrável",
+      "w": 354,
+      "h": 362,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Ft%C3%A1bua%2520de%2520passar.jpg&w=1920&q=75",
+      "alt": "Tábua de passar",
+      "w": 355,
+      "h": 355,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Farroz.jpg&w=1920&q=75",
+      "alt": "Panela elétrica de arroz",
+      "w": 422,
+      "h": 316,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fjarras.jpg&w=1920&q=75",
+      "alt": "Jarras",
+      "w": 355,
+      "h": 533,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcortina.jpg&w=1920&q=75",
+      "alt": "Cortina para porta",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fmesa%2520de%2520centro.jpg&w=1920&q=75",
+      "alt": "Mesa de centro",
+      "w": 423,
+      "h": 528,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fliquidificador.jpg&w=1920&q=75",
+      "alt": "Liquidificador",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fprocessador.jpg&w=1920&q=75",
+      "alt": "Processador de alimentos",
+      "w": 675,
+      "h": 422,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fchaleira.jpg&w=1920&q=75",
+      "alt": "Chaleira",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Faspirador.jpg&w=1920&q=75",
+      "alt": "Aspirador de pó portátil",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fpanela-pressao.jpg&w=1920&q=75",
+      "alt": "Panela de pressão",
+      "w": 422,
+      "h": 347,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fjogo-panelas.jpg&w=1920&q=75",
+      "alt": "Jogo de panelas",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcopos.jpg&w=1920&q=75",
+      "alt": "Conjunto de copos",
+      "w": 423,
+      "h": 528,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fbanho.jpg&w=1920&q=75",
+      "alt": "Jogo de banho",
+      "w": 747,
+      "h": 745,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Falmofadas.jpg&w=1920&q=75",
+      "alt": "Almofadas",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Farandela.jpg&w=1920&q=75",
+      "alt": "Arandelas",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Ftravessas.jpg&w=1920&q=75",
+      "alt": "Travessas e refratários",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Faparelho%2520de%2520jantar.jpg&w=1920&q=75",
+      "alt": "Aparelho de jantar",
+      "w": 423,
+      "h": 423,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcota-viagem-1.jpg&w=1920&q=75",
+      "alt": "Cota 1 - Passagem lua de mel",
+      "w": 900,
+      "h": 600,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcota-hospedagem-1.jpg&w=1920&q=75",
+      "alt": "Cota 1 Hospedagem lua de mel",
+      "w": 1440,
+      "h": 1863,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fmesa.jpg&w=1920&q=75",
+      "alt": "Mesa de jantar",
+      "w": 355,
+      "h": 355,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcadeira-escritorio.jpg&w=1920&q=75",
+      "alt": "Cadeira de escritório",
+      "w": 422,
+      "h": 507,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcota-viagem-4.jpg&w=1920&q=75",
+      "alt": "Cota 4 - Passagem lua de mel",
+      "w": 1230,
+      "h": 645,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fbau.jpg&w=3840&q=75",
+      "alt": "Cama king size baú",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fsofa.jpg&w=3840&q=75",
+      "alt": "Sofá",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Festante.jpg&w=3840&q=75",
+      "alt": "Estante",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcota-hospedagem-2.jpg&w=3840&q=75",
+      "alt": "Cota 2 Hospedagem lua de mel",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcristaleira.jpg&w=3840&q=75",
+      "alt": "Cristaleira",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcota-viagem-2.jpg&w=3840&q=75",
+      "alt": "Cota 2 - Passagem lua de mel",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fescrivaninha.jpg&w=3840&q=75",
+      "alt": "Escrivaninha",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcota-viagem-3.jpg&w=3840&q=75",
+      "alt": "Cota 3 - Passagem lua de mel",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Far.jpg&w=3840&q=75",
+      "alt": "Ar-condicionado",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcolchao-king.jpg&w=3840&q=75",
+      "alt": "Colchão king size",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fedredom.jpg&w=3840&q=75",
+      "alt": "Edredom",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Ftravesseiros.jpg&w=3840&q=75",
+      "alt": "Travesseiros",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fmesa-escritorio.jpg&w=3840&q=75",
+      "alt": "Mesa de Escritório",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcafe.jpg&w=3840&q=75",
+      "alt": "Cafeteira",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Froupa%2520de%2520cama.jpg&w=3840&q=75",
+      "alt": "Roupa de cama",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Ffog%C3%A3o.jpg&w=3840&q=75",
+      "alt": "Fogão",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fpanela%2520press%25C3%25A3o.jpg&w=3840&q=75",
+      "alt": "Panela de pressão elétrica",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fsousplat.jpg&w=3840&q=75",
+      "alt": "Jogo de sousplat",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Frobo.jpg&w=3840&q=75",
+      "alt": "Robô de limpeza",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fmicroondas.jpg&w=3840&q=75",
+      "alt": "Microondas",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Ftapete.jpg&w=3840&q=75",
+      "alt": "Tapete de sala de estar",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fmaquina-de-lavar.jpg&w=3840&q=75",
+      "alt": "Máquina de lavar roupas",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fmixer.jpg&w=3840&q=75",
+      "alt": "Mixer",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2FGiftlist%2Fcadeiras.jpg&w=3840&q=75",
+      "alt": "Cadeiras",
+      "w": 0,
+      "h": 0,
+      "cw": 211,
+      "ch": 158
+    }
+  ],
+  "bgImgs": [
+    {
+      "url": "url(\"https://www.amabillyegabriel.com/giftpage/bg.jpg\")",
+      "cls": "GiftListPage_container__ig13U",
+      "w": 1440,
+      "h": 6735
+    }
+  ]
+}

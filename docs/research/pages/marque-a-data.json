@@ -1,0 +1,351 @@
+{
+  "title": "Amábilly & Gabriel",
+  "url": "https://www.amabillyegabriel.com/pt/marque-a-data",
+  "scrollH": 939,
+  "sections": [
+    {
+      "i": 0,
+      "tag": "section",
+      "cls": "SaveTheDatePage_section__IBZOr",
+      "h": 900,
+      "text": "...Pedimos que confirme o mais rápido que puder, assim que tiver certeza! LTaaaaiinrsste MOaeeiilrstuva ACaadmnosta JPdeoorão CSaaiillnorva FLaacdeennrsus BRacehiortza RSaaaeflnots JLaaiilmnua AGabdee"
+    }
+  ],
+  "dom": {
+    "tag": "main",
+    "cls": "",
+    "sty": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "900px",
+      "display": "flex",
+      "flexDirection": "column",
+      "alignItems": "center",
+      "border": "0px none rgb(0, 0, 0)",
+      "overflow": "visible",
+      "position": "static",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "textAlign": "start"
+    },
+    "box": {
+      "w": 1440,
+      "h": 900
+    },
+    "ch": [
+      {
+        "tag": "section",
+        "cls": "SaveTheDatePage_section__IBZOr",
+        "sty": {
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "fontFamily": "freight-big-pro, serif",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "900px",
+          "minHeight": "900px",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "hidden",
+          "position": "relative",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "textAlign": "start"
+        },
+        "box": {
+          "w": 1440,
+          "h": 900
+        },
+        "ch": [
+          {
+            "tag": "div",
+            "cls": "AutoType_inputContainer__aGT71",
+            "sty": {
+              "fontSize": "48px",
+              "fontWeight": "400",
+              "fontFamily": "freight-big-pro, serif",
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "width": "415.578px",
+              "height": "61px",
+              "maxWidth": "100%",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "textAlign": "start"
+            },
+            "box": {
+              "w": 416,
+              "h": 61
+            },
+            "ch": [
+              {
+                "tag": "input",
+                "cls": "AutoType_input__uoeWb undefined",
+                "sty": {
+                  "fontSize": "48px",
+                  "fontWeight": "400",
+                  "fontFamily": "freight-big-pro, serif",
+                  "color": "rgb(26, 26, 26)",
+                  "backgroundColor": "rgba(0, 0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "width": "380.875px",
+                  "height": "59px",
+                  "display": "inline-block",
+                  "flexDirection": "row",
+                  "border": "0px none rgb(26, 26, 26)",
+                  "overflow": "clip",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "cursor": "text",
+                  "objectFit": "fill",
+                  "textAlign": "right"
+                },
+                "box": {
+                  "w": 381,
+                  "h": 59
+                },
+                "ch": []
+              },
+              {
+                "tag": "strong",
+                "cls": "AutoType_dots__dkAHW",
+                "sty": {
+                  "fontSize": "48px",
+                  "fontWeight": "700",
+                  "fontFamily": "freight-big-pro, serif",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(0, 0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "0px 0px 0px 4px",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "start"
+                },
+                "box": {
+                  "w": 35,
+                  "h": 61
+                },
+                "ch": [
+                  {
+                    "tag": "span",
+                    "cls": "",
+                    "text": ".",
+                    "sty": {
+                      "fontSize": "48px",
+                      "fontWeight": "700",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "display": "inline",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 10,
+                      "h": 61
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "span",
+                    "cls": "",
+                    "text": ".",
+                    "sty": {
+                      "fontSize": "48px",
+                      "fontWeight": "700",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(219, 177, 102)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "display": "inline",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(219, 177, 102)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 10,
+                      "h": 61
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "span",
+                    "cls": "",
+                    "text": ".",
+                    "sty": {
+                      "fontSize": "48px",
+                      "fontWeight": "700",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(243, 230, 205)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "display": "inline",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(243, 230, 205)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 10,
+                      "h": 61
+                    },
+                    "ch": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "AutoType_saveDate__9nrDV AutoType_confirmationPresenceMessage__G4zch AutoType_under__d73MO",
+            "sty": {
+              "fontSize": "48px",
+              "fontWeight": "400",
+              "fontFamily": "freight-big-pro, serif",
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "margin": "44px 0px 0px",
+              "width": "519.484px",
+              "height": "5px",
+              "display": "flex",
+              "flexDirection": "column",
+              "alignItems": "center",
+              "gap": "16px",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "position": "absolute",
+              "top": "450px",
+              "left": "720px",
+              "opacity": "1",
+              "transform": "matrix(1, 0, 0, 1, -259.742, 0)",
+              "transition": "all",
+              "objectFit": "fill",
+              "textAlign": "start"
+            },
+            "box": {
+              "w": 519,
+              "h": 5
+            },
+            "ch": [
+              {
+                "tag": "small",
+                "cls": "",
+                "text": "Pedimos que confirme o mais rápido que puder, assim que tiver certeza!",
+                "sty": {
+                  "fontSize": "18px",
+                  "fontWeight": "400",
+                  "fontFamily": "freight-big-pro, serif",
+                  "letterSpacing": "1.3px",
+                  "color": "rgba(0, 0, 0, 0.48)",
+                  "backgroundColor": "rgba(0, 0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "margin": "0px 0px -18px",
+                  "width": "519.484px",
+                  "height": "23px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px none rgba(0, 0, 0, 0.48)",
+                  "overflow": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "center"
+                },
+                "box": {
+                  "w": 519,
+                  "h": 23
+                },
+                "ch": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "AutoType_list__GVUS4",
+            "sty": {
+              "fontSize": "48px",
+              "fontWeight": "400",
+              "fontFamily": "freight-big-pro, serif",
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "width": "1440px",
+              "height": "177px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "position": "absolute",
+              "top": "361.5px",
+              "zIndex": "-2",
+              "opacity": "0.04",
+              "transition": "all",
+              "objectFit": "fill",
+              "textAlign": "center"
+            },
+            "box": {
+              "w": 1440,
+              "h": 177
+            },
+            "ch": []
+          }
+        ]
+      }
+    ]
+  },
+  "imgs": [
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=%2Flogo-teste.png&w=48&q=75",
+      "alt": "amabilly-gabriel-logo",
+      "w": 48,
+      "h": 72,
+      "cw": 40,
+      "ch": 60
+    }
+  ],
+  "bgImgs": []
+}

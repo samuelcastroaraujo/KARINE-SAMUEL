@@ -1,0 +1,1418 @@
+{
+  "title": "Nossa História - Amábilly & Gabriel",
+  "url": "https://www.amabillyegabriel.com/pt/nossa-historia",
+  "scrollH": 1584,
+  "sections": [
+    {
+      "i": 0,
+      "tag": "section",
+      "cls": "OurStoryPage_section__sX1Pk",
+      "h": 1544,
+      "text": "Nossa históriaKalmar 1518-1519;Assim, costumávamos terminar nossos textos. Em uma cidade sonhada, onde nos encontrávamos em nossas imaginações. Talvez você encontre algumas dezenas de poemas escritos "
+    }
+  ],
+  "dom": {
+    "tag": "main",
+    "cls": "",
+    "sty": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "1544px",
+      "display": "flex",
+      "flexDirection": "column",
+      "alignItems": "center",
+      "border": "0px none rgb(255, 255, 255)",
+      "overflow": "visible",
+      "position": "static",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "textAlign": "start"
+    },
+    "box": {
+      "w": 1440,
+      "h": 1544
+    },
+    "ch": [
+      {
+        "tag": "section",
+        "cls": "OurStoryPage_section__sX1Pk",
+        "sty": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundImage": "url(\"https://www.amabillyegabriel.com/our-story/bg1.jpg\")",
+          "backgroundSize": "cover",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "1544px",
+          "minHeight": "900px",
+          "display": "flex",
+          "flexDirection": "row",
+          "alignItems": "center",
+          "border": "0px none rgb(255, 255, 255)",
+          "overflow": "visible",
+          "position": "relative",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "textAlign": "start"
+        },
+        "box": {
+          "w": 1440,
+          "h": 1544
+        },
+        "ch": [
+          {
+            "tag": "div",
+            "cls": "OurStoryNarrative_container__yiN6X",
+            "sty": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(255, 255, 255)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "padding": "120px 0px 64px",
+              "width": "1440px",
+              "height": "1544px",
+              "maxWidth": "2400px",
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "center",
+              "alignItems": "flex-start",
+              "gap": "64px",
+              "border": "0px none rgb(255, 255, 255)",
+              "overflow": "visible",
+              "position": "relative",
+              "zIndex": "2",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "textAlign": "start"
+            },
+            "box": {
+              "w": 1440,
+              "h": 1544
+            },
+            "ch": [
+              {
+                "tag": "div",
+                "cls": "OurStoryNarrative_textContainer___qSRx",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(255, 255, 255)",
+                  "backgroundColor": "rgba(0, 0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "64px 0px 0px 56px",
+                  "width": "688px",
+                  "height": "1360px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "start"
+                },
+                "box": {
+                  "w": 688,
+                  "h": 1360
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "OurStoryNarrative_slogan__4K3cU",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "632px",
+                      "height": "41px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 41
+                    },
+                    "ch": [
+                      {
+                        "tag": "h2",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "32px",
+                          "fontWeight": "700",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "2px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 24px",
+                          "width": "632px",
+                          "height": "41px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 632,
+                          "h": 41
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "",
+                    "text": "Kalmar 1518-1519;",
+                    "sty": {
+                      "fontSize": "18.72px",
+                      "fontWeight": "700",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 12px",
+                      "width": "632px",
+                      "height": "23px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 23
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Assim, costumávamos terminar nossos textos. Em uma cidade sonhada, onde nos encontrávamos em nossas imaginações. Talvez você encontre algumas dezenas de poemas escritos em nossas redes sociais com essa assinatura.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "66px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 66
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Nos conhecemos em 10 de Abril de 2018. Gosto (eu, o noivo), de imaginar que - guardadas as devidas proporções -, nos encontramos em um encontro às escuras do século XXI. Ela é meu primeiro amor.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "66px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 66
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Ainda tenho memórias vívidas daquele ano.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "22px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "As madrugadas em ligação, com os inolvidáveis sussurros.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "22px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 22
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "66px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 66
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "O doze de dezembro do primeiro abraço e a primeira chuva de meteoros juntos. A verdade é que consigo narrar quase que minuto a minuto daqueles dias.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "44px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Mas ainda não era o momento onde as ditas linhas se encontrariam. Ainda faltava Algo - ou Alguém. 27 de abril de 2019, a primeira despedida.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "44px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 44
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "ul",
+                    "cls": "",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 24px",
+                      "width": "632px",
+                      "height": "20px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "gap": "8px",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 20
+                    },
+                    "ch": [
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "632px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 632,
+                          "h": 20
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "",
+                    "text": "Kalmar 1520-1521;",
+                    "sty": {
+                      "fontSize": "18.72px",
+                      "fontWeight": "700",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 12px",
+                      "width": "632px",
+                      "height": "23px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 23
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Ainda pensamos muito sobre a cabana nas montanhas, mas agora, separados… Não para sempre, ainda bem. Muita história ainda seria escrita. Contaremos sobre a volta então: depois de um “sinal de fumaça” enviado, soubemos que ambos continuávamos dentro de nossas imaginações. As mesmas. E então, depois d",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "110px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 110
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "22px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 22
+                    },
+                    "ch": [
+                      {
+                        "tag": "strong",
+                        "cls": "",
+                        "text": "1 de agosto de 2020, vivendo a pandemia.",
+                        "sty": {
+                          "fontSize": "18px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "1.2px",
+                          "color": "rgb(255, 255, 255)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "display": "inline",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "justify"
+                        },
+                        "box": {
+                          "w": 317,
+                          "h": 22
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Sabe quando queremos muito construir algo, mas não sabemos como? Pois bem, uma edificação sobre a areia define bem essa parte da história. “These violent delights have violent ends”. Mas ele é meu primeiro amor.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "66px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 66
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Essa é uma parte da história que poderia ser digna de esquecimento. Mas não é. Ela é parte da prova de uma história de redenção. Escrita não com tinta, nem em tábuas de pedra, mas em tábuas de corações humanos.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "66px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 66
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Hoje nós somos gratos em tudo. A verdade é que foi nessa época que entendemos que nós, por nós mesmos, não seríamos capazes de sustentar essa história. Foi então que tivemos de seguir caminhos diferentes. Para que pudéssemos ser encontrados por Ele. E em tudo, podermos ver Sua graça.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "88px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 88
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "ul",
+                    "cls": "",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 24px",
+                      "width": "632px",
+                      "height": "20px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "gap": "8px",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 20
+                    },
+                    "ch": [
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "632px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 632,
+                          "h": 20
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "h3",
+                    "cls": "",
+                    "text": "Kalmar 1523-1524;",
+                    "sty": {
+                      "fontSize": "18.72px",
+                      "fontWeight": "700",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 12px",
+                      "width": "632px",
+                      "height": "23px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 23
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "66px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 66
+                    },
+                    "ch": []
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Um mês após nosso reencontro, foi feito o pedido de casamento.",
+                    "sty": {
+                      "fontSize": "18px",
+                      "fontWeight": "300",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 16px",
+                      "width": "632px",
+                      "height": "22px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "justify"
+                    },
+                    "box": {
+                      "w": 632,
+                      "h": 22
+                    },
+                    "ch": []
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "OurStoryNarrative_poemsContainer__pvqND",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(255, 255, 255)",
+                  "backgroundColor": "rgba(0, 0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "padding": "64px 0px 0px",
+                  "width": "688px",
+                  "height": "537px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "start"
+                },
+                "box": {
+                  "w": 688,
+                  "h": 537
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "OurStoryNarrative_slogan__4K3cU",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "width": "688px",
+                      "height": "41px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 688,
+                      "h": 41
+                    },
+                    "ch": [
+                      {
+                        "tag": "h2",
+                        "cls": "",
+                        "text": "Poemas",
+                        "sty": {
+                          "fontSize": "32px",
+                          "fontWeight": "700",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "2px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 24px",
+                          "width": "688px",
+                          "height": "41px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 41
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "ul",
+                    "cls": "",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(255, 255, 255)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "margin": "0px 0px 24px",
+                      "width": "688px",
+                      "height": "384px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "gap": "8px",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 688,
+                      "h": 384
+                    },
+                    "ch": [
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(233, 233, 233)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "688px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(233, 233, 233)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 688,
+                          "h": 20
+                        },
+                        "ch": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "imgs": [
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=%2Flogo-teste2.png&w=48&q=75",
+      "alt": "amabilly-gabriel-logo",
+      "w": 48,
+      "h": 72,
+      "cw": 40,
+      "ch": 60
+    }
+  ],
+  "bgImgs": [
+    {
+      "url": "url(\"https://www.amabillyegabriel.com/our-story/bg1.jpg\")",
+      "cls": "OurStoryPage_section__sX1Pk",
+      "w": 1440,
+      "h": 1544
+    }
+  ]
+}

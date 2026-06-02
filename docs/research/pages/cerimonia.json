@@ -1,0 +1,936 @@
+{
+  "title": "Amábilly & Gabriel",
+  "url": "https://www.amabillyegabriel.com/pt/dicas-e-instrucoes/cerimonia",
+  "scrollH": 2638,
+  "sections": [
+    {
+      "i": 0,
+      "tag": "section",
+      "cls": "TipsAndInstructions_tipsSections__LcwGI",
+      "h": 2599,
+      "text": "A CerimôniaCódigo de VestimentaHospedagemInformações sobre o grande dia!29 de junho de 2024A realizar-se às 15hCerimônia e recepção - Ville La RochelleEstrada Municipal do bairro Caioçara 1100 Bairro "
+    }
+  ],
+  "dom": {
+    "tag": "main",
+    "cls": "",
+    "sty": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "width": "1440px",
+      "height": "2599px",
+      "display": "flex",
+      "flexDirection": "column",
+      "alignItems": "center",
+      "border": "0px none rgb(0, 0, 0)",
+      "overflow": "visible",
+      "position": "static",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "textAlign": "start"
+    },
+    "box": {
+      "w": 1440,
+      "h": 2599
+    },
+    "ch": [
+      {
+        "tag": "section",
+        "cls": "TipsAndInstructions_tipsSections__LcwGI",
+        "sty": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "width": "1440px",
+          "height": "2599px",
+          "minHeight": "900px",
+          "display": "flex",
+          "flexDirection": "row",
+          "alignItems": "center",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "textAlign": "start"
+        },
+        "box": {
+          "w": 1440,
+          "h": 2599
+        },
+        "ch": [
+          {
+            "tag": "div",
+            "cls": "InstructionsMenu_asideGhost__kwDBf",
+            "sty": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "padding": "0px 32px",
+              "width": "350px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "textAlign": "start"
+            },
+            "box": {
+              "w": 350,
+              "h": 0
+            },
+            "ch": []
+          },
+          {
+            "tag": "aside",
+            "cls": "InstructionsMenu_aside__gAyV4",
+            "sty": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "width": "350px",
+              "height": "900px",
+              "display": "flex",
+              "flexDirection": "row",
+              "alignItems": "center",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "position": "fixed",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "textAlign": "start"
+            },
+            "box": {
+              "w": 350,
+              "h": 900
+            },
+            "ch": [
+              {
+                "tag": "nav",
+                "cls": "InstructionsMenu_nav__cX0de",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "500",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(0, 0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "width": "350px",
+                  "height": "124px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "start"
+                },
+                "box": {
+                  "w": 350,
+                  "h": 124
+                },
+                "ch": [
+                  {
+                    "tag": "ul",
+                    "cls": "",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "500",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "0px 32px",
+                      "width": "350px",
+                      "height": "124px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "alignItems": "center",
+                      "gap": "32px",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 350,
+                      "h": 124
+                    },
+                    "ch": [
+                      {
+                        "tag": "li",
+                        "cls": "InstructionsMenu_activeRouter__YBZLO",
+                        "sty": {
+                          "fontSize": "42px",
+                          "fontWeight": "300",
+                          "fontFamily": "bickham-script-pro-3",
+                          "lineHeight": "20px",
+                          "color": "rgb(211, 159, 66)",
+                          "textTransform": "lowercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "121.172px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(211, 159, 66)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "font-family 0.2s ease-in",
+                          "objectFit": "fill",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 121,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "300",
+                          "fontFamily": "Inter",
+                          "letterSpacing": "2px",
+                          "color": "rgb(0, 0, 0)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "233.953px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "font-family 0.2s ease-in",
+                          "objectFit": "fill",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 234,
+                          "h": 20
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "li",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "300",
+                          "fontFamily": "Inter",
+                          "letterSpacing": "2px",
+                          "color": "rgb(0, 0, 0)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "130.844px",
+                          "height": "20px",
+                          "display": "list-item",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "font-family 0.2s ease-in",
+                          "objectFit": "fill",
+                          "textAlign": "center"
+                        },
+                        "box": {
+                          "w": 131,
+                          "h": 20
+                        },
+                        "ch": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "section",
+            "cls": "",
+            "sty": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "width": "1090px",
+              "height": "2599px",
+              "display": "block",
+              "flexDirection": "row",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "textAlign": "start"
+            },
+            "box": {
+              "w": 1090,
+              "h": 2599
+            },
+            "ch": [
+              {
+                "tag": "div",
+                "cls": "Index_initialSection__FS2cc",
+                "sty": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundColor": "rgba(0, 0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "width": "1090px",
+                  "height": "2599px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "alignItems": "center",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "textAlign": "start"
+                },
+                "box": {
+                  "w": 1090,
+                  "h": 2599
+                },
+                "ch": [
+                  {
+                    "tag": "div",
+                    "cls": "Index_firstSide__maL74",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "390px 0px 0px",
+                      "width": "545px",
+                      "height": "740px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 545,
+                      "h": 740
+                    },
+                    "ch": [
+                      {
+                        "tag": "div",
+                        "cls": "Index_imageContainer__Dkcne",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "545px",
+                          "height": "350px",
+                          "minHeight": "350px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "relative",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 545,
+                          "h": 350
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "Index_lastSide__voH4a",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "390px 0px 0px",
+                      "width": "545px",
+                      "height": "670px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 545,
+                      "h": 670
+                    },
+                    "ch": [
+                      {
+                        "tag": "div",
+                        "cls": "Index_textContainer__sEK94",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "lineHeight": "36px",
+                          "color": "rgb(0, 0, 0)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "width": "503.938px",
+                          "height": "280px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "left"
+                        },
+                        "box": {
+                          "w": 504,
+                          "h": 280
+                        },
+                        "ch": []
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "Index_howToFind__kUo1h",
+                    "sty": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundColor": "rgba(0, 0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "padding": "0px 184px 0px 92px",
+                      "margin": "44px 0px 0px",
+                      "width": "1090px",
+                      "height": "1815px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "textAlign": "start"
+                    },
+                    "box": {
+                      "w": 1090,
+                      "h": 1815
+                    },
+                    "ch": [
+                      {
+                        "tag": "h3",
+                        "cls": "",
+                        "text": "Para quem vem de SP Zona Sul",
+                        "sty": {
+                          "fontSize": "36px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "1.5px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "44px 0px 32px",
+                          "width": "814px",
+                          "height": "45px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 45
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "h4",
+                        "cls": "",
+                        "text": "Alternativa 1",
+                        "sty": {
+                          "fontSize": "21px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "color": "rgb(211, 159, 66)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 16px",
+                          "width": "814px",
+                          "height": "25px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(211, 159, 66)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 25
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "ol",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "lineHeight": "28px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 32px",
+                          "width": "814px",
+                          "height": "252px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 252
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "h4",
+                        "cls": "",
+                        "text": "Alternativa 2",
+                        "sty": {
+                          "fontSize": "21px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "color": "rgb(211, 159, 66)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 16px",
+                          "width": "814px",
+                          "height": "25px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(211, 159, 66)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 25
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "span",
+                        "cls": "",
+                        "text": "Caso tenha perdido a entrada da Edgard Máximo Zamboto em Cajamar e não tenha feito o retorno imediato,",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "display": "inline",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 741,
+                          "h": 40
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "ol",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "lineHeight": "28px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 32px",
+                          "width": "814px",
+                          "height": "280px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 280
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "h4",
+                        "cls": "",
+                        "text": "Alternativa 3",
+                        "sty": {
+                          "fontSize": "21px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "color": "rgb(211, 159, 66)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 16px",
+                          "width": "814px",
+                          "height": "25px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(211, 159, 66)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 25
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "ol",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "lineHeight": "28px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 32px",
+                          "width": "814px",
+                          "height": "28px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 28
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "h4",
+                        "cls": "",
+                        "text": "Alternativa 4",
+                        "sty": {
+                          "fontSize": "21px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "color": "rgb(211, 159, 66)",
+                          "textTransform": "uppercase",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 16px",
+                          "width": "814px",
+                          "height": "25px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(211, 159, 66)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 25
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "ol",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "lineHeight": "28px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 32px",
+                          "width": "814px",
+                          "height": "28px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 28
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "h3",
+                        "cls": "",
+                        "text": "Para quem vem da Zona Leste de São Paulo:",
+                        "sty": {
+                          "fontSize": "36px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "1.5px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "44px 0px 32px",
+                          "width": "814px",
+                          "height": "45px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 45
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "ol",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "lineHeight": "28px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 32px",
+                          "width": "814px",
+                          "height": "280px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 280
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "h3",
+                        "cls": "",
+                        "text": "Para quem vem de Campinas:",
+                        "sty": {
+                          "fontSize": "36px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "1.5px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "44px 0px 32px",
+                          "width": "814px",
+                          "height": "45px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 45
+                        },
+                        "ch": []
+                      },
+                      {
+                        "tag": "ol",
+                        "cls": "",
+                        "sty": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "Inter, serif",
+                          "lineHeight": "28px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundColor": "rgba(0, 0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "margin": "0px 0px 32px",
+                          "width": "814px",
+                          "height": "252px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "textAlign": "start"
+                        },
+                        "box": {
+                          "w": 814,
+                          "h": 252
+                        },
+                        "ch": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "imgs": [
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=%2Flogo-teste.png&w=48&q=75",
+      "alt": "amabilly-gabriel-logo",
+      "w": 48,
+      "h": 72,
+      "cw": 40,
+      "ch": 60
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=%2Flogos%2Fvlr-preto.png&w=1920&q=75",
+      "alt": "vlr-logo",
+      "w": 366,
+      "h": 348,
+      "cw": 545,
+      "ch": 350
+    }
+  ],
+  "bgImgs": []
+}
