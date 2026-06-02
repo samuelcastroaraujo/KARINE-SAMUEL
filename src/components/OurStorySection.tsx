@@ -19,7 +19,7 @@ export function OurStorySection() {
 
         {/* Button + paragraph */}
         <div className="mt-16 flex flex-col items-start justify-between gap-8 md:mt-0 md:flex-row md:items-end">
-          <Button href="/pt/nossa-historia" variant="primary" className="font-serif">
+          <Button href="/nossa-historia" variant="primary" className="font-serif">
             Continue lendo...
           </Button>
           <p className="max-w-[350px] text-right text-[16px] leading-normal text-[#1a1a1a] md:text-justify">

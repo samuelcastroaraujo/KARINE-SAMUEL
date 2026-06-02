@@ -8,7 +8,7 @@ export function SiteFooter() {
       </section>
       <footer className="bg-black py-3 text-center">
         <span className="font-sans text-[11px] uppercase tracking-[2px] text-white">
-          Developed by Gabriel Max &amp; Ana Amábilly
+          Developed by Samuel &amp; Karine
         </span>
       </footer>
     </>
