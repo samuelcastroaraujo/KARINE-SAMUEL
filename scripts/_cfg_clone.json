@@ -1,0 +1,19 @@
+{
+  "url": "http://localhost:3000",
+  "width": 1440,
+  "height": 900,
+  "wait": "networkidle",
+  "settle": 2500,
+  "sweep": [
+    { "y": 0, "shot": "docs/design-references/clone-d-00-hero.png" },
+    { "y": 924, "shot": "docs/design-references/clone-d-01-countdown.png" },
+    { "y": 1500, "shot": "docs/design-references/clone-d-02-savedate-a.png" },
+    { "y": 2150, "shot": "docs/design-references/clone-d-03-savedate-b.png" },
+    { "y": 2900, "shot": "docs/design-references/clone-d-04-horiz-start.png" },
+    { "y": 3700, "shot": "docs/design-references/clone-d-05-horiz.png" },
+    { "y": 4600, "shot": "docs/design-references/clone-d-06-horiz.png" },
+    { "y": 5600, "shot": "docs/design-references/clone-d-08-horiz.png" },
+    { "y": 6600, "shot": "docs/design-references/clone-d-10-horiz-end.png" },
+    { "y": 99999, "shot": "docs/design-references/clone-d-12-ourstory-footer.png" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://www.amabillyegabriel.com/pt",
+  "width": 1440,
+  "height": 900,
+  "wait": "networkidle",
+  "settle": 2500,
+  "sweep": [
+    { "y": 0, "shot": "docs/design-references/d-00-hero.png" },
+    { "y": 924, "shot": "docs/design-references/d-01-countdown.png" },
+    { "y": 1450, "shot": "docs/design-references/d-02-savedate-a.png" },
+    { "y": 2100, "shot": "docs/design-references/d-03-savedate-b.png" },
+    { "y": 2766, "shot": "docs/design-references/d-04-horiz-start.png" },
+    { "y": 3400, "shot": "docs/design-references/d-05-horiz.png" },
+    { "y": 4100, "shot": "docs/design-references/d-06-horiz.png" },
+    { "y": 4800, "shot": "docs/design-references/d-07-horiz.png" },
+    { "y": 5500, "shot": "docs/design-references/d-08-horiz.png" },
+    { "y": 6200, "shot": "docs/design-references/d-09-horiz.png" },
+    { "y": 6900, "shot": "docs/design-references/d-10-horiz-end.png" },
+    { "y": 7200, "shot": "docs/design-references/d-11-ourstory.png" },
+    { "y": 7940, "shot": "docs/design-references/d-12-footer.png" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.amabillyegabriel.com/pt",
+  "width": 1440,
+  "height": 900,
+  "wait": "networkidle",
+  "settle": 2500,
+  "evalFile": "scripts/_global.js",
+  "out": "docs/research/global.json",
+  "screenshot": "docs/design-references/desktop-fullpage.png",
+  "fullPage": true
+}

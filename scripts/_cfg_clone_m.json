@@ -1,0 +1,4 @@
+{
+  "url":"http://localhost:3000","width":390,"height":844,"wait":"networkidle","settle":2500,
+  "sweep":[{"y":0,"shot":"docs/design-references/clone-m-00.png"},{"y":1700,"shot":"docs/design-references/clone-m-02.png"}]
+}

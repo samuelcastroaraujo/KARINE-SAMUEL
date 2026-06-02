@@ -1,0 +1,255 @@
+{
+  "navCandidates": [
+    {
+      "tag": "nav",
+      "cls": "Navigation_nav__D1U__",
+      "pos": "fixed",
+      "z": "5",
+      "top": "0px",
+      "h": 112,
+      "links": [
+        {
+          "t": "",
+          "href": "/pt"
+        },
+        {
+          "t": "Início",
+          "href": "/pt"
+        },
+        {
+          "t": "Confirme presença",
+          "href": "/pt/marque-a-data"
+        },
+        {
+          "t": "Presentes",
+          "href": "/pt/presentes"
+        },
+        {
+          "t": "Dicas e Instruções",
+          "href": "/pt/dicas-e-instrucoes/cerimonia"
+        },
+        {
+          "t": "Álbum de fotos",
+          "href": "/pt/album-de-fotos"
+        },
+        {
+          "t": "Nossa história",
+          "href": "/pt/nossa-historia"
+        }
+      ]
+    },
+    {
+      "tag": "header",
+      "cls": "HomeHeader_header__o88dx",
+      "pos": "relative",
+      "z": "-2",
+      "top": "0px",
+      "h": 900,
+      "links": []
+    }
+  ],
+  "navInfo": {
+    "tag": "nav",
+    "cls": "Navigation_nav__D1U__",
+    "outerStart": "<nav class=\"Navigation_nav__D1U__\" style=\"color:#fff\"><div class=\"Navigation_logo__hfAeQ\"><a href=\"/pt\"><img alt=\"amabilly-gabriel-logo\" loading=\"lazy\" width=\"40\" height=\"60\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent\" srcset=\"/_next/image?url=%2Flogo-teste2.png&amp;w=48&amp;q=75 1x, /_next/image?url=%2Flogo-teste2.png&amp;w=96&amp;q=75 2x\" src=\"/_next/image?url=%2Flogo-teste2.png&amp;w=96&amp;q=75\"></a></div><input type=\"checkbox\" id=\"menuToggle\" class=\"Navigation_menuToggle__gZvQE\"><label for=\"menuToggle\" class=\"Navigation_menuButton__9A_0q\"><div class=\"Navigation_toggleButton__KLfMP\"></div></label><div class=\"Navigation_bgDark__8fACP Navigation_smoothBG__fI4yE\" style=\"height: 0%;\"></div><ul class=\"Navigation_navItems__bOSiB\"><li class=\"Navigation_activeRouter__eikn3\"><a href=\"/pt\"><span>Início</span></a></li><li><a href=\"/pt/marque-a-data\"><span>Confirme presença</span></a></li><li><a href=\"/pt/presentes\"><span>Presentes</span></a></li><li><a href=\"/pt/dicas-e-instrucoes/cerimonia\"><span>Dicas e Instruções</span></a></li><li><a href=\"/pt/album-de-fotos\"><span>Álbum de fotos</span></a></li><li><a href=\"/pt/nossa-historia\"><span>Nossa história</span></a></li></ul><div",
+    "style": {
+      "position": "fixed",
+      "top": "0px",
+      "left": "0px",
+      "width": "1440px",
+      "height": "112px",
+      "zIndex": "5",
+      "padding": "24px 48px",
+      "display": "flex",
+      "justifyContent": "space-between",
+      "alignItems": "normal",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "mixBlendMode": "normal",
+      "color": "rgb(255, 255, 255)",
+      "transition": "all"
+    },
+    "itemsColorAtTop": [
+      {
+        "t": "",
+        "color": "rgb(255, 255, 255)",
+        "font": "__Inter_d65c78, __Inter_Fallback_d65c78",
+        "fs": "16px",
+        "fw": "500",
+        "ls": "normal",
+        "tt": "none"
+      },
+      {
+        "t": "Início",
+        "color": "rgb(255, 255, 255)",
+        "font": "bickham-script-pro-3",
+        "fs": "42px",
+        "fw": "300",
+        "ls": "normal",
+        "tt": "lowercase"
+      },
+      {
+        "t": "Início",
+        "color": "rgb(255, 255, 255)",
+        "font": "bickham-script-pro-3",
+        "fs": "42px",
+        "fw": "300",
+        "ls": "normal",
+        "tt": "lowercase"
+      },
+      {
+        "t": "Início",
+        "color": "rgb(255, 255, 255)",
+        "font": "bickham-script-pro-3",
+        "fs": "42px",
+        "fw": "300",
+        "ls": "normal",
+        "tt": "lowercase"
+      },
+      {
+        "t": "Confirme presença",
+        "color": "rgb(255, 255, 255)",
+        "font": "Inter",
+        "fs": "16px",
+        "fw": "300",
+        "ls": "2px",
+        "tt": "uppercase"
+      },
+      {
+        "t": "Confirme presença",
+        "color": "rgb(255, 255, 255)",
+        "font": "Inter",
+        "fs": "16px",
+        "fw": "300",
+        "ls": "2px",
+        "tt": "uppercase"
+      },
+      {
+        "t": "Confirme presença",
+        "color": "rgb(255, 255, 255)",
+        "font": "Inter",
+        "fs": "16px",
+        "fw": "300",
+        "ls": "2px",
+        "tt": "uppercase"
+      },
+      {
+        "t": "Presentes",
+        "color": "rgb(255, 255, 255)",
+        "font": "Inter",
+        "fs": "16px",
+        "fw": "300",
+        "ls": "2px",
+        "tt": "uppercase"
+      }
+    ]
+  },
+  "overlays": [],
+  "fixedOverlays": [
+    {
+      "cls": "",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImg": "none",
+      "z": "-5",
+      "opacity": "1"
+    }
+  ],
+  "hsRect": {
+    "offsetTop": 2766,
+    "h": 4320
+  },
+  "hsStruct": {
+    "hsClass": "HorizontalScrollSection_horizontalScrollSection__yDnWr",
+    "hsStyle": {
+      "position": "relative",
+      "height": "4320px",
+      "overflow": "visible"
+    },
+    "stickyStyle": null,
+    "trackClass": "HorizontalScrollSection_scrollContainer__ST5d4",
+    "trackStyle": {
+      "display": "flex",
+      "width": "1440px",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "height": "900px",
+      "gap": "normal"
+    },
+    "trackWidth": 1440,
+    "panelCount": 6,
+    "panels": [
+      {
+        "cls": "HorizontalScrollChild_childContainer__k_Hci",
+        "w": 720,
+        "txt": "A CerimôniaVeja informações sobre nosso "
+      },
+      {
+        "cls": "HorizontalScrollChild_childContainer__k_Hci",
+        "w": 720,
+        "txt": "Lista de PresentesCheque nossa lista de "
+      },
+      {
+        "cls": "HorizontalScrollChild_childContainer__k_Hci",
+        "w": 720,
+        "txt": "Código de VestimentaConfira o dresscode"
+      },
+      {
+        "cls": "HorizontalScrollChild_childContainer__k_Hci",
+        "w": 720,
+        "txt": "HospedagemEncontre lugares por perto par"
+      },
+      {
+        "cls": "HorizontalScrollChild_childContainer__k_Hci",
+        "w": 720,
+        "txt": "PoemasPoemas que trocamos ao longo dos a"
+      },
+      {
+        "cls": "HorizontalScrollChild_childContainer__k_Hci",
+        "w": 720,
+        "txt": "GaleriaAs fotos do nosso pré-wedding"
+      }
+    ]
+  },
+  "transformProbes": [
+    {
+      "y": 2666,
+      "navColor": "rgb(0, 0, 0)",
+      "trackTransform": "matrix(1, 0, 0, 1, 0, 0)",
+      "stickyTop": null
+    },
+    {
+      "y": 2966,
+      "navColor": "rgb(0, 0, 0)",
+      "trackTransform": "matrix(1, 0, 0, 1, -168.421, 0)",
+      "stickyTop": null
+    },
+    {
+      "y": 3566,
+      "navColor": "rgb(0, 0, 0)",
+      "trackTransform": "matrix(1, 0, 0, 1, -673.684, 0)",
+      "stickyTop": null
+    },
+    {
+      "y": 4366,
+      "navColor": "rgb(0, 0, 0)",
+      "trackTransform": "matrix(1, 0, 0, 1, -1347.37, 0)",
+      "stickyTop": null
+    },
+    {
+      "y": 5166,
+      "navColor": "rgb(0, 0, 0)",
+      "trackTransform": "matrix(1, 0, 0, 1, -2021.05, 0)",
+      "stickyTop": null
+    },
+    {
+      "y": 5966,
+      "navColor": "rgb(0, 0, 0)",
+      "trackTransform": "matrix(1, 0, 0, 1, -2694.74, 0)",
+      "stickyTop": null
+    },
+    {
+      "y": 6766,
+      "navColor": "rgb(0, 0, 0)",
+      "trackTransform": "matrix(1, 0, 0, 1, -2880, 3420)",
+      "stickyTop": null
+    }
+  ]
+}

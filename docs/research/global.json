@@ -1,0 +1,460 @@
+{
+  "url": "https://www.amabillyegabriel.com/pt",
+  "scrollHeight": 8129,
+  "viewport": {
+    "w": 1440,
+    "h": 900
+  },
+  "fonts": [
+    "\"Times New Roman\"",
+    "__Inter_d65c78, __Inter_Fallback_d65c78",
+    "Arial",
+    "bickham-script-pro-3",
+    "Inter",
+    "freight-big-pro, serif"
+  ],
+  "typography": [
+    {
+      "sel": "h1",
+      "fontFamily": "freight-big-pro, serif",
+      "fontSize": "72px",
+      "fontWeight": "200",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "textTransform": "uppercase"
+    },
+    {
+      "sel": "h2",
+      "fontFamily": "bickham-script-pro-3",
+      "fontSize": "60px",
+      "fontWeight": "300",
+      "lineHeight": "54px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "textTransform": "none"
+    },
+    {
+      "sel": "h3",
+      "fontFamily": "freight-big-pro, serif",
+      "fontSize": "32px",
+      "fontWeight": "100",
+      "lineHeight": "normal",
+      "letterSpacing": "2px",
+      "color": "rgb(119, 119, 119)",
+      "textTransform": "uppercase"
+    },
+    {
+      "sel": "p",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(26, 26, 26)",
+      "textTransform": "none"
+    },
+    {
+      "sel": "a",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "textTransform": "none"
+    },
+    {
+      "sel": "nav",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "textTransform": "none"
+    },
+    {
+      "sel": "span",
+      "fontFamily": "bickham-script-pro-3",
+      "fontSize": "42px",
+      "fontWeight": "300",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "textTransform": "lowercase"
+    },
+    {
+      "sel": "li",
+      "fontFamily": "bickham-script-pro-3",
+      "fontSize": "42px",
+      "fontWeight": "300",
+      "lineHeight": "20px",
+      "letterSpacing": "normal",
+      "color": "rgb(255, 255, 255)",
+      "textTransform": "lowercase"
+    }
+  ],
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(0, 0, 0)",
+  "bodyFont": "__Inter_d65c78, __Inter_Fallback_d65c78",
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "topColors": [
+    [
+      "rgb(0, 0, 0)",
+      125
+    ],
+    [
+      "rgb(255, 255, 255)",
+      62
+    ],
+    [
+      "rgba(0, 0, 0, 0)",
+      9
+    ],
+    [
+      "rgb(26, 26, 26)",
+      5
+    ],
+    [
+      "rgba(0, 0, 0, 0.85)",
+      4
+    ],
+    [
+      "rgb(170, 170, 170)",
+      3
+    ],
+    [
+      "rgb(119, 119, 119)",
+      3
+    ],
+    [
+      "rgb(113, 113, 113)",
+      3
+    ],
+    [
+      "rgba(255, 255, 255, 0.85)",
+      3
+    ],
+    [
+      "rgb(211, 159, 66)",
+      1
+    ],
+    [
+      "rgba(15, 15, 15, 0.35)",
+      1
+    ]
+  ],
+  "topBg": [
+    [
+      "rgb(255, 255, 255)",
+      5
+    ],
+    [
+      "rgb(0, 0, 0)",
+      2
+    ]
+  ],
+  "imagesCount": 9,
+  "images": [
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=%2Flogo-teste2.png&w=48&q=75",
+      "srcset": "/_next/image?url=%2Flogo-teste2.png&w=48&q=75 1x, /_next/image?url=%2Flogo-teste2.png&w=96&q=75 2x",
+      "alt": "amabilly-gabriel-logo",
+      "w": 48,
+      "h": 72,
+      "cw": 40,
+      "ch": 60,
+      "parentClass": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=%2Fbanner%2F03.jpg&w=1920&q=100",
+      "srcset": "/_next/image?url=%2Fbanner%2F03.jpg&w=640&q=100 640w, /_next/image?url=%2Fbanner%2F03.jpg&w=750&q=100 750w, /_next/image?url=%2Fbanner%2F03.jpg&w=828&q=100 828w, /_next/image?url=%2Fbanner%2F03.jpg&w=1080&q=100 1080w, /_next/image?url=%2Fbanner%2F03.jpg&w=1200&q=100 1200w, /_next/image?url=%2Fbanner%2F03.jpg&w=1920&q=100 1920w, /_next/image?url=%2Fbanner%2F03.jpg&w=2048&q=100 2048w, /_next/image?url=%2Fbanner%2F03.jpg&w=3840&q=100 3840w",
+      "alt": "The day we met",
+      "w": 1440,
+      "h": 960,
+      "cw": 1440,
+      "ch": 900,
+      "parentClass": "SlideShow_imagesContainer__eL4Iu",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=%2Fbanner%2F02.jpg&w=1920&q=100",
+      "srcset": "/_next/image?url=%2Fbanner%2F02.jpg&w=640&q=100 640w, /_next/image?url=%2Fbanner%2F02.jpg&w=750&q=100 750w, /_next/image?url=%2Fbanner%2F02.jpg&w=828&q=100 828w, /_next/image?url=%2Fbanner%2F02.jpg&w=1080&q=100 1080w, /_next/image?url=%2Fbanner%2F02.jpg&w=1200&q=100 1200w, /_next/image?url=%2Fbanner%2F02.jpg&w=1920&q=100 1920w, /_next/image?url=%2Fbanner%2F02.jpg&w=2048&q=100 2048w, /_next/image?url=%2Fbanner%2F02.jpg&w=3840&q=100 3840w",
+      "alt": "The day we met",
+      "w": 1440,
+      "h": 960,
+      "cw": 1440,
+      "ch": 900,
+      "parentClass": "SlideShow_imagesContainer__eL4Iu",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=1920&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=3840&q=75 3840w",
+      "alt": "our-first-images",
+      "w": 1023,
+      "h": 1536,
+      "cw": 275,
+      "ch": 500,
+      "parentClass": "RoundedCard_imagesContainer__NlfXE",
+      "position": "absolute",
+      "zIndex": "1"
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=1920&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=3840&q=75 3840w",
+      "alt": "our-first-images",
+      "w": 1023,
+      "h": 1536,
+      "cw": 275,
+      "ch": 500,
+      "parentClass": "RoundedCard_imagesContainer__NlfXE",
+      "position": "absolute",
+      "zIndex": "2"
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=1920&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-27.jpg&w=3840&q=75 3840w",
+      "alt": "pre-wedding-images",
+      "w": 1023,
+      "h": 1536,
+      "cw": 275,
+      "ch": 500,
+      "parentClass": "RoundedCard_imagesContainer__NlfXE",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=1920&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=3840&q=75 3840w",
+      "alt": "pre-wedding-images",
+      "w": 1023,
+      "h": 1536,
+      "cw": 275,
+      "ch": 500,
+      "parentClass": "RoundedCard_imagesContainer__NlfXE",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=1920&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=3840&q=75 3840w",
+      "alt": "wedding-ask-images",
+      "w": 1023,
+      "h": 1536,
+      "cw": 275,
+      "ch": 500,
+      "parentClass": "RoundedCard_imagesContainer__NlfXE",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=1920&q=75",
+      "srcset": "/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=3840&q=75 3840w",
+      "alt": "wedding-ask-images",
+      "w": 1440,
+      "h": 960,
+      "cw": 275,
+      "ch": 500,
+      "parentClass": "RoundedCard_imagesContainer__NlfXE",
+      "position": "absolute",
+      "zIndex": "auto"
+    }
+  ],
+  "videos": [],
+  "bgImages": [
+    {
+      "url": "url(\"https://www.amabillyegabriel.com/folha2.jpg\")",
+      "tag": "section",
+      "cls": "TheCerimony_section__AbHCn",
+      "w": 720,
+      "h": 900
+    },
+    {
+      "url": "url(\"https://www.amabillyegabriel.com/tulipa.jpg\")",
+      "tag": "section",
+      "cls": "Gifts_section__0k0AE",
+      "w": 720,
+      "h": 900
+    },
+    {
+      "url": "url(\"https://www.amabillyegabriel.com/girassol.jpg\")",
+      "tag": "section",
+      "cls": "DressCode_section__fsEH2",
+      "w": 720,
+      "h": 900
+    },
+    {
+      "url": "url(\"https://www.amabillyegabriel.com/dandelion.jpg\")",
+      "tag": "section",
+      "cls": "Accommodation_section__aOgXt",
+      "w": 720,
+      "h": 900
+    },
+    {
+      "url": "url(\"https://www.amabillyegabriel.com/planta.jpg\")",
+      "tag": "section",
+      "cls": "Poems_section__x5I1R",
+      "w": 720,
+      "h": 900
+    },
+    {
+      "url": "url(\"https://www.amabillyegabriel.com/final.jpg\")",
+      "tag": "section",
+      "cls": "Gallery_section__2M_De",
+      "w": 720,
+      "h": 900
+    }
+  ],
+  "links": [
+    {
+      "rel": "preload",
+      "href": "https://www.amabillyegabriel.com/_next/static/media/a34f9d1faa5f3315-s.p.woff2",
+      "sizes": "",
+      "type": "font/woff2"
+    },
+    {
+      "rel": "preload",
+      "href": "",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "preload",
+      "href": "",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "preload",
+      "href": "",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "preload",
+      "href": "",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.amabillyegabriel.com/_next/static/css/62d854629ef70c83.css",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.amabillyegabriel.com/_next/static/css/19c2d7a5978f6b21.css",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "preload",
+      "href": "https://www.amabillyegabriel.com/_next/static/chunks/webpack-8cf170be03d14aa7.js",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "icon",
+      "href": "https://www.amabillyegabriel.com/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://use.typekit.net/gja5cdy.css",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "preload",
+      "href": "",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "rel": "preload",
+      "href": "",
+      "sizes": "",
+      "type": ""
+    }
+  ],
+  "favicons": [
+    {
+      "rel": "icon",
+      "href": "https://www.amabillyegabriel.com/favicon.png",
+      "sizes": "32x32"
+    }
+  ],
+  "meta": {
+    "title": "Amábilly & Gabriel",
+    "description": "Created by Gabriel Max and Ana Amábilly",
+    "lang": "pt"
+  },
+  "topSections": [
+    {
+      "i": 0,
+      "tag": "header",
+      "cls": "HomeHeader_header__o88dx",
+      "id": null,
+      "h": 900,
+      "text": "Amábilly & Gabrielnas ditas linhas em que nos encontramos29 DE JUNHO DE 2024MG–SP"
+    },
+    {
+      "i": 1,
+      "tag": "section",
+      "cls": "CountdownSection_section__q8BFC",
+      "id": null,
+      "h": 524,
+      "text": "Casados há:11Meses08Dias15Horas18Minutos29Segundos"
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "cls": "SaveTheDate_section__Ggm_C",
+      "id": null,
+      "h": 1342,
+      "text": "SAVETHEDATE!Confirme sua presença01.01.10 April 2018O começo02.02.18 Nov 2023O pedido03.03.29 Jun 2024O casamento"
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "cls": "HorizontalScrollSection_horizontalScrollSection__yDnWr",
+      "id": null,
+      "h": 4320,
+      "text": "A CerimôniaVeja informações sobre nosso Grande Dia!Caioçara, Jarinu - SP, 13240-000Estrada Municipal do Bairro Caioçara "
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "cls": "OurStorySection_section__6O9YV",
+      "id": null,
+      "h": 854,
+      "text": "NossahistóriaContinue lendo...Kalmar, 1518-1519; Assim, costumávamos terminar nossos textos. Em uma cidade sonhada, onde"
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "cls": "Footer_footer__QJKQ8",
+      "id": null,
+      "h": 150,
+      "text": ""
+    }
+  ],
+  "smoothScroll": {
+    "lenis": false,
+    "locomotive": false
+  },
+  "framework": {
+    "next": false,
+    "nuxt": false,
+    "react": false
+  },
+  "svgCount": 2
+}

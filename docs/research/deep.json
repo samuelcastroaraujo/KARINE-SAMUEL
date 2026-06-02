@@ -1,0 +1,4347 @@
+{
+  "header": {
+    "tag": "header",
+    "cls": "HomeHeader_header__o88dx",
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "backgroundRepeat": "repeat",
+      "width": "799.656px",
+      "height": "900px",
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "textAlign": "start",
+      "border": "0px none rgb(0, 0, 0)",
+      "overflow": "visible",
+      "overflowX": "visible",
+      "position": "relative",
+      "zIndex": "-2",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "writingMode": "horizontal-tb"
+    },
+    "box": {
+      "w": 800,
+      "h": 900
+    },
+    "children": [
+      {
+        "tag": "div",
+        "cls": "",
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "backgroundRepeat": "repeat",
+          "width": "1440px",
+          "height": "900px",
+          "display": "block",
+          "flexDirection": "row",
+          "textAlign": "start",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "hidden",
+          "overflowX": "hidden",
+          "position": "fixed",
+          "zIndex": "-5",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "writingMode": "horizontal-tb"
+        },
+        "box": {
+          "w": 1440,
+          "h": 900
+        },
+        "children": [
+          {
+            "tag": "div",
+            "cls": "SlideShow_imagesContainer__eL4Iu",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "1440px",
+              "height": "900px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "relative",
+              "zIndex": "-2",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 1440,
+              "h": 900
+            },
+            "children": [
+              {
+                "tag": "img",
+                "cls": "",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "1440px",
+                  "height": "900px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "textAlign": "start",
+                  "border": "0px none rgba(0, 0, 0, 0)",
+                  "overflow": "clip",
+                  "overflowX": "clip",
+                  "position": "absolute",
+                  "opacity": "0",
+                  "transition": "all",
+                  "objectFit": "cover",
+                  "writingMode": "horizontal-tb"
+                },
+                "img": {
+                  "src": "https://www.amabillyegabriel.com/_next/image?url=%2Fbanner%2F03.jpg&w=1920&q=100",
+                  "alt": "The day we met",
+                  "w": 1440,
+                  "h": 960
+                },
+                "box": {
+                  "w": 1440,
+                  "h": 900
+                }
+              },
+              {
+                "tag": "img",
+                "cls": "",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "1440px",
+                  "height": "900px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "textAlign": "start",
+                  "border": "0px none rgba(0, 0, 0, 0)",
+                  "overflow": "clip",
+                  "overflowX": "clip",
+                  "position": "absolute",
+                  "opacity": "0",
+                  "transition": "all",
+                  "objectFit": "cover",
+                  "writingMode": "horizontal-tb"
+                },
+                "img": {
+                  "src": "https://www.amabillyegabriel.com/_next/image?url=%2Fbanner%2F02.jpg&w=1920&q=100",
+                  "alt": "The day we met",
+                  "w": 1440,
+                  "h": 960
+                },
+                "box": {
+                  "w": 1440,
+                  "h": 900
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "div",
+        "cls": "HomeHeader_box__Kytvu",
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(255, 255, 255)",
+          "backgroundPosition": "0% 0%",
+          "backgroundRepeat": "repeat",
+          "padding": "0px 32px",
+          "width": "799.656px",
+          "height": "270px",
+          "display": "flex",
+          "flexDirection": "column",
+          "alignItems": "center",
+          "gap": "4px",
+          "textAlign": "center",
+          "border": "0px none rgb(255, 255, 255)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "position": "static",
+          "zIndex": "2",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "writingMode": "horizontal-tb"
+        },
+        "box": {
+          "w": 800,
+          "h": 270
+        },
+        "children": [
+          {
+            "tag": "h1",
+            "cls": "",
+            "styles": {
+              "fontSize": "72px",
+              "fontWeight": "200",
+              "fontFamily": "freight-big-pro, serif",
+              "color": "rgb(255, 255, 255)",
+              "textTransform": "uppercase",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "padding": "0px 0px 12px",
+              "margin": "0px 0px 12px",
+              "width": "735.656px",
+              "height": "128px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "center",
+              "border": "0px none rgb(255, 255, 255)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 736,
+              "h": 128
+            },
+            "children": [
+              {
+                "tag": "span",
+                "cls": "HomeHeader_firstName__hTUg7",
+                "text": "Amábilly",
+                "styles": {
+                  "fontSize": "72px",
+                  "fontWeight": "200",
+                  "fontFamily": "freight-big-pro, serif",
+                  "letterSpacing": "-0.5px",
+                  "color": "rgb(255, 255, 255)",
+                  "textTransform": "uppercase",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "textAlign": "center",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 320,
+                  "h": 89
+                }
+              },
+              {
+                "tag": "span",
+                "cls": "HomeHeader_connector__y0zNI",
+                "text": "&",
+                "styles": {
+                  "fontSize": "92px",
+                  "fontWeight": "200",
+                  "fontFamily": "freight-big-pro, serif",
+                  "color": "rgb(255, 255, 255)",
+                  "textTransform": "uppercase",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "padding": "0px 12px",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "textAlign": "center",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 88,
+                  "h": 116
+                }
+              },
+              {
+                "tag": "span",
+                "cls": "HomeHeader_secondName__SKvTk",
+                "text": "Gabriel",
+                "styles": {
+                  "fontSize": "72px",
+                  "fontWeight": "200",
+                  "fontFamily": "freight-big-pro, serif",
+                  "letterSpacing": "2.5px",
+                  "color": "rgb(255, 255, 255)",
+                  "textTransform": "uppercase",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "padding": "0px 0px 0px 10px",
+                  "width": "302.469px",
+                  "height": "89px",
+                  "display": "inline-block",
+                  "flexDirection": "row",
+                  "textAlign": "center",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transform": "matrix(1.055, 0, 0, 1, 0, 0)",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 319,
+                  "h": 89
+                }
+              }
+            ]
+          },
+          {
+            "tag": "h2",
+            "cls": "",
+            "text": "nas ditas linhas em que nos encontramos",
+            "styles": {
+              "fontSize": "60px",
+              "fontWeight": "300",
+              "fontFamily": "bickham-script-pro-3",
+              "lineHeight": "54px",
+              "color": "rgb(255, 255, 255)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "margin": "12px 0px 0px",
+              "width": "595.625px",
+              "height": "54px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "center",
+              "border": "0px none rgb(255, 255, 255)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 596,
+              "h": 54
+            }
+          },
+          {
+            "tag": "span",
+            "cls": "",
+            "text": "29 DE JUNHO DE 2024",
+            "styles": {
+              "fontSize": "18px",
+              "fontWeight": "400",
+              "fontFamily": "freight-big-pro, serif",
+              "letterSpacing": "2px",
+              "color": "rgb(255, 255, 255)",
+              "textTransform": "uppercase",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "padding": "4px 0px 0px",
+              "width": "199.75px",
+              "height": "26px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "center",
+              "border": "0px none rgb(255, 255, 255)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 200,
+              "h": 26
+            }
+          },
+          {
+            "tag": "span",
+            "cls": "",
+            "styles": {
+              "fontSize": "18px",
+              "fontWeight": "400",
+              "fontFamily": "freight-big-pro, serif",
+              "letterSpacing": "2px",
+              "color": "rgb(255, 255, 255)",
+              "textTransform": "uppercase",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "padding": "4px 0px 0px",
+              "width": "79.1094px",
+              "height": "26px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "center",
+              "border": "0px none rgb(255, 255, 255)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 79,
+              "h": 26
+            },
+            "children": [
+              {
+                "tag": "span",
+                "cls": "",
+                "text": "–",
+                "styles": {
+                  "fontSize": "18px",
+                  "fontWeight": "400",
+                  "fontFamily": "freight-big-pro, serif",
+                  "letterSpacing": "2px",
+                  "color": "rgb(255, 255, 255)",
+                  "textTransform": "uppercase",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "padding": "0px 8px",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "textAlign": "center",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 26,
+                  "h": 22
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "countdown": {
+    "tag": "section",
+    "cls": "CountdownSection_section__q8BFC",
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "backgroundRepeat": "repeat",
+      "width": "1440px",
+      "height": "524px",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "textAlign": "start",
+      "border": "0px none rgb(0, 0, 0)",
+      "overflow": "visible",
+      "overflowX": "visible",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "writingMode": "horizontal-tb"
+    },
+    "box": {
+      "w": 1440,
+      "h": 524
+    },
+    "children": [
+      {
+        "tag": "div",
+        "cls": "CountdownSection_container__HY_EA",
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "backgroundRepeat": "repeat",
+          "width": "1440px",
+          "height": "524px",
+          "maxWidth": "2400px",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "alignItems": "flex-start",
+          "gap": "64px",
+          "textAlign": "start",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "writingMode": "horizontal-tb"
+        },
+        "box": {
+          "w": 1440,
+          "h": 524
+        },
+        "children": [
+          {
+            "tag": "div",
+            "cls": "CountdownSection_cronos__0DUKH",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "1440px",
+              "height": "180px",
+              "display": "flex",
+              "flexDirection": "column",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 1440,
+              "h": 180
+            },
+            "children": [
+              {
+                "tag": "div",
+                "cls": "CountdownSection_afterMessage__sPfKL",
+                "text": "Casados há:",
+                "styles": {
+                  "fontSize": "64px",
+                  "fontWeight": "400",
+                  "fontFamily": "bickham-script-pro-3",
+                  "color": "rgb(255, 255, 255)",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "181.641px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "textAlign": "start",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 182,
+                  "h": 0
+                }
+              },
+              {
+                "tag": "div",
+                "cls": "CountdownSection_time__UAd4T",
+                "styles": {
+                  "fontSize": "24px",
+                  "fontWeight": "400",
+                  "fontFamily": "freight-big-pro, serif",
+                  "letterSpacing": "4px",
+                  "color": "rgb(255, 255, 255)",
+                  "textTransform": "uppercase",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "900px",
+                  "height": "180px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "justifyContent": "center",
+                  "textAlign": "start",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 900,
+                  "h": 180
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "cls": "CountdownSection_timeSection__mEvwJ CountdownSection_splitter__dzm03",
+                    "styles": {
+                      "fontSize": "24px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(255, 255, 255)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "180px",
+                      "height": "180px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "justifyContent": "flex-start",
+                      "alignItems": "center",
+                      "gap": "8px",
+                      "textAlign": "start",
+                      "borderRadius": "16px",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 180,
+                      "h": 180
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_timeBox__no2j7",
+                        "text": "11",
+                        "styles": {
+                          "fontSize": "112px",
+                          "fontWeight": "100",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "margin": "-12px 0px 0px",
+                          "width": "76.7812px",
+                          "height": "139px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 77,
+                          "h": 139
+                        }
+                      },
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_unit__zS3oU",
+                        "text": "Meses",
+                        "styles": {
+                          "fontSize": "24px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "90.5px",
+                          "height": "30px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 91,
+                          "h": 30
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "CountdownSection_timeSection__mEvwJ CountdownSection_splitter__dzm03",
+                    "styles": {
+                      "fontSize": "24px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(255, 255, 255)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "180px",
+                      "height": "180px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "justifyContent": "flex-start",
+                      "alignItems": "center",
+                      "gap": "8px",
+                      "textAlign": "start",
+                      "borderRadius": "16px",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 180,
+                      "h": 180
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_timeBox__no2j7",
+                        "text": "08",
+                        "styles": {
+                          "fontSize": "112px",
+                          "fontWeight": "100",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "margin": "-12px 0px 0px",
+                          "width": "115.297px",
+                          "height": "139px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 115,
+                          "h": 139
+                        }
+                      },
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_unit__zS3oU",
+                        "text": "Dias",
+                        "styles": {
+                          "fontSize": "24px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "65.7344px",
+                          "height": "30px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 66,
+                          "h": 30
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "CountdownSection_timeSection__mEvwJ CountdownSection_splitter__dzm03",
+                    "styles": {
+                      "fontSize": "24px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(255, 255, 255)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "180px",
+                      "height": "180px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "justifyContent": "flex-start",
+                      "alignItems": "center",
+                      "gap": "8px",
+                      "textAlign": "start",
+                      "borderRadius": "16px",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 180,
+                      "h": 180
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_timeBox__no2j7",
+                        "text": "15",
+                        "styles": {
+                          "fontSize": "112px",
+                          "fontWeight": "100",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "margin": "-12px 0px 0px",
+                          "width": "82.2656px",
+                          "height": "139px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 82,
+                          "h": 139
+                        }
+                      },
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_unit__zS3oU",
+                        "text": "Horas",
+                        "styles": {
+                          "fontSize": "24px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "95.0781px",
+                          "height": "30px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 95,
+                          "h": 30
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "CountdownSection_timeSection__mEvwJ CountdownSection_splitter__dzm03",
+                    "styles": {
+                      "fontSize": "24px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(255, 255, 255)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "180px",
+                      "height": "180px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "justifyContent": "flex-start",
+                      "alignItems": "center",
+                      "gap": "8px",
+                      "textAlign": "start",
+                      "borderRadius": "16px",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 180,
+                      "h": 180
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_timeBox__no2j7",
+                        "text": "21",
+                        "styles": {
+                          "fontSize": "112px",
+                          "fontWeight": "100",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "margin": "-12px 0px 0px",
+                          "width": "87.9688px",
+                          "height": "139px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 88,
+                          "h": 139
+                        }
+                      },
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_unit__zS3oU",
+                        "text": "Minutos",
+                        "styles": {
+                          "fontSize": "24px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "130.922px",
+                          "height": "30px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 131,
+                          "h": 30
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "CountdownSection_timeSection__mEvwJ undefined",
+                    "styles": {
+                      "fontSize": "24px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(255, 255, 255)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "180px",
+                      "height": "180px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "justifyContent": "flex-start",
+                      "alignItems": "center",
+                      "gap": "8px",
+                      "textAlign": "start",
+                      "borderRadius": "16px",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 180,
+                      "h": 180
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_timeBox__no2j7",
+                        "text": "58",
+                        "styles": {
+                          "fontSize": "112px",
+                          "fontWeight": "100",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "margin": "-12px 0px 0px",
+                          "width": "99.8438px",
+                          "height": "139px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 100,
+                          "h": 139
+                        }
+                      },
+                      {
+                        "tag": "div",
+                        "cls": "CountdownSection_unit__zS3oU",
+                        "text": "Segundos",
+                        "styles": {
+                          "fontSize": "24px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(255, 255, 255)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "150.5px",
+                          "height": "30px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(255, 255, 255)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 151,
+                          "h": 30
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "savethedate": {
+    "tag": "section",
+    "cls": "SaveTheDate_section__Ggm_C",
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundPosition": "0% 0%",
+      "backgroundRepeat": "repeat",
+      "padding": "0px 32px",
+      "width": "1440px",
+      "height": "1342px",
+      "minHeight": "720px",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "flex-start",
+      "textAlign": "start",
+      "border": "0px none rgb(0, 0, 0)",
+      "overflow": "visible",
+      "overflowX": "visible",
+      "position": "static",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "writingMode": "horizontal-tb"
+    },
+    "box": {
+      "w": 1440,
+      "h": 1342
+    },
+    "children": [
+      {
+        "tag": "div",
+        "cls": "SaveTheDate_container__BFxZB",
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "backgroundRepeat": "repeat",
+          "width": "1376px",
+          "height": "1342px",
+          "maxWidth": "2400px",
+          "display": "flex",
+          "flexDirection": "column-reverse",
+          "justifyContent": "center",
+          "gap": "64px",
+          "textAlign": "start",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "writingMode": "horizontal-tb"
+        },
+        "box": {
+          "w": 1376,
+          "h": 1342
+        },
+        "children": [
+          {
+            "tag": "div",
+            "cls": "SaveTheDate_textSide__EcfqS undefined",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "freight-big-pro, serif",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "1376px",
+              "height": "631px",
+              "display": "flex",
+              "flexDirection": "column",
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "left 0.2s ease-in-out",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 1376,
+              "h": 631
+            },
+            "children": [
+              {
+                "tag": "div",
+                "cls": "SaveTheDate_content__wXms4",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "freight-big-pro, serif",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "357.266px",
+                  "height": "631px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "space-between",
+                  "textAlign": "start",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 357,
+                  "h": 631
+                },
+                "children": [
+                  {
+                    "tag": "h1",
+                    "cls": "SaveTheDate_title__L50au",
+                    "styles": {
+                      "fontSize": "144px",
+                      "fontWeight": "200",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "180px",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundImage": "linear-gradient(270deg, rgb(238, 238, 238), rgb(17, 17, 17))",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "357.266px",
+                      "height": "540px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 357,
+                      "h": 540
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "",
+                        "text": "SAVE",
+                        "styles": {
+                          "fontSize": "144px",
+                          "fontWeight": "200",
+                          "fontFamily": "freight-big-pro, serif",
+                          "lineHeight": "180px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "357.266px",
+                          "height": "180px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 357,
+                          "h": 180
+                        }
+                      },
+                      {
+                        "tag": "div",
+                        "cls": "",
+                        "text": "THE",
+                        "styles": {
+                          "fontSize": "144px",
+                          "fontWeight": "200",
+                          "fontFamily": "freight-big-pro, serif",
+                          "lineHeight": "180px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "357.266px",
+                          "height": "180px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 357,
+                          "h": 180
+                        }
+                      },
+                      {
+                        "tag": "div",
+                        "cls": "",
+                        "text": "DATE!",
+                        "styles": {
+                          "fontSize": "144px",
+                          "fontWeight": "200",
+                          "fontFamily": "freight-big-pro, serif",
+                          "lineHeight": "180px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "357.266px",
+                          "height": "180px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 357,
+                          "h": 180
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "SaveTheDate_callToAction__6CAu1",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "357.266px",
+                      "height": "91px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "flex-start",
+                      "alignItems": "flex-end",
+                      "gap": "32px",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 357,
+                      "h": 91
+                    },
+                    "children": [
+                      {
+                        "tag": "svg",
+                        "cls": "[object SVGAnimatedString]",
+                        "id": "Camada_1",
+                        "styles": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "60px",
+                          "height": "91px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "hidden",
+                          "overflowX": "hidden",
+                          "position": "static",
+                          "inset": "auto auto 0px",
+                          "opacity": "1",
+                          "transform": "matrix(1, 0, 0, 1, 0, 19)",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 60,
+                          "h": 91
+                        },
+                        "children": [
+                          {
+                            "tag": "g",
+                            "cls": "[object SVGAnimatedString]",
+                            "styles": {
+                              "fontSize": "16px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "color": "rgb(0, 0, 0)",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "display": "inline",
+                              "flexDirection": "row",
+                              "textAlign": "start",
+                              "border": "0px none rgb(0, 0, 0)",
+                              "overflow": "visible",
+                              "overflowX": "visible",
+                              "position": "static",
+                              "opacity": "1",
+                              "transition": "all",
+                              "objectFit": "fill",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "box": {
+                              "w": 60,
+                              "h": 91
+                            },
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "a",
+                        "cls": "Button_button__aJ0V6 Button_highlighted__TrbPe",
+                        "text": "Confirme sua presença",
+                        "styles": {
+                          "fontSize": "18px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "lineHeight": "26px",
+                          "letterSpacing": "2px",
+                          "color": "rgb(211, 159, 66)",
+                          "backgroundColor": "rgb(255, 255, 255)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "padding": "13px 23px",
+                          "width": "260px",
+                          "height": "54px",
+                          "minHeight": "51.2px",
+                          "display": "flex",
+                          "flexDirection": "row",
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "textAlign": "center",
+                          "borderRadius": "30px",
+                          "border": "1px solid rgb(211, 159, 66)",
+                          "boxShadow": "rgba(211, 159, 66, 0.02) 0px 1px 3px 0px",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "relative",
+                          "opacity": "1",
+                          "transition": "font-family 0.25s",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "href": "/pt/marque-a-data",
+                        "box": {
+                          "w": 260,
+                          "h": 54
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "SaveTheDate_images__HOpVk",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "freight-big-pro, serif",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "1376px",
+              "height": "647px",
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "center",
+              "alignItems": "center",
+              "gap": "24px",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 1376,
+              "h": 647
+            },
+            "children": [
+              {
+                "tag": "div",
+                "cls": "RoundedCard_container__3bRLy undefined undefined",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "freight-big-pro, serif",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "275px",
+                  "height": "647px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "24px",
+                  "textAlign": "start",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "0.375s ease-in",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 275,
+                  "h": 647
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_cardContainer__3kRbh",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "275px",
+                      "height": "500px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 275,
+                      "h": 500
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "RoundedCard_imagesContainer__NlfXE",
+                        "styles": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "275px",
+                          "height": "500px",
+                          "display": "flex",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "borderRadius": "300px",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "hidden",
+                          "overflowX": "hidden",
+                          "position": "relative",
+                          "zIndex": "3",
+                          "opacity": "1",
+                          "transition": "0.25s ease-in-out",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 275,
+                          "h": 500
+                        },
+                        "children": [
+                          {
+                            "tag": "img",
+                            "cls": "undefined RoundedCard_front__c3Al1 RoundedCard_flipOut__NPG43",
+                            "styles": {
+                              "fontSize": "16px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "275px",
+                              "height": "500px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "start",
+                              "border": "0px none rgba(0, 0, 0, 0)",
+                              "overflow": "clip",
+                              "overflowX": "clip",
+                              "position": "absolute",
+                              "zIndex": "1",
+                              "opacity": "0",
+                              "transform": "matrix3d(-1, 0, 0, 0, 0, 1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1)",
+                              "transition": "all",
+                              "cursor": "pointer",
+                              "objectFit": "cover",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "img": {
+                              "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-107.jpg&w=1920&q=75",
+                              "alt": "our-first-images",
+                              "w": 1023,
+                              "h": 1536
+                            },
+                            "box": {
+                              "w": 275,
+                              "h": 500
+                            }
+                          },
+                          {
+                            "tag": "img",
+                            "cls": "undefined RoundedCard_back__DM8sm RoundedCard_flipIn__R3JYk",
+                            "styles": {
+                              "fontSize": "16px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "275px",
+                              "height": "500px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "start",
+                              "border": "0px none rgba(0, 0, 0, 0)",
+                              "overflow": "clip",
+                              "overflowX": "clip",
+                              "position": "absolute",
+                              "zIndex": "2",
+                              "opacity": "1",
+                              "transform": "matrix(1, 0, 0, 1, 0, 0)",
+                              "transition": "all",
+                              "cursor": "pointer",
+                              "objectFit": "cover",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "img": {
+                              "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-184.jpg&w=1920&q=75",
+                              "alt": "our-first-images",
+                              "w": 1023,
+                              "h": 1536
+                            },
+                            "box": {
+                              "w": 275,
+                              "h": 500
+                            }
+                          },
+                          {
+                            "tag": "span",
+                            "cls": "RoundedCard_legend__iehw3 RoundedCard_innerLegend__tGpxt",
+                            "styles": {
+                              "fontSize": "94px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "lineHeight": "88px",
+                              "color": "rgb(255, 255, 255)",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "95.8906px",
+                              "height": "88px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "right",
+                              "border": "0px none rgb(255, 255, 255)",
+                              "overflow": "visible",
+                              "overflowX": "visible",
+                              "position": "absolute",
+                              "top": "412px",
+                              "right": "-20px",
+                              "left": "199.109px",
+                              "zIndex": "3",
+                              "inset": "412px -20px 0px 199.109px",
+                              "opacity": "1",
+                              "transition": "opacity 0.25s ease-in-out",
+                              "cursor": "pointer",
+                              "objectFit": "fill",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "box": {
+                              "w": 96,
+                              "h": 88
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "span",
+                        "cls": "RoundedCard_legend__iehw3 RoundedCard_outterLegend__FSKPt",
+                        "styles": {
+                          "fontSize": "94px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "lineHeight": "88px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "95.8906px",
+                          "height": "88px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "right",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "absolute",
+                          "top": "412px",
+                          "right": "-20px",
+                          "left": "199.109px",
+                          "inset": "412px -20px 0px 199.109px",
+                          "opacity": "1",
+                          "transition": "opacity 0.25s ease-in-out",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 96,
+                          "h": 88
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_splitter__cMHa2",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundImage": "linear-gradient(rgb(211, 159, 66) 10%, rgb(255, 255, 255))",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "3px",
+                      "height": "40px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s ease-in-out",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 3,
+                      "h": 40
+                    }
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_dates__365Im",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "175.109px",
+                      "height": "59px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s ease-in-out",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 175,
+                      "h": 59
+                    },
+                    "children": [
+                      {
+                        "tag": "span",
+                        "cls": "",
+                        "text": "10 April 2018",
+                        "styles": {
+                          "fontSize": "14px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(170, 170, 170)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "display": "inline",
+                          "flexDirection": "row",
+                          "textAlign": "center",
+                          "border": "0px none rgb(170, 170, 170)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 130,
+                          "h": 18
+                        }
+                      },
+                      {
+                        "tag": "h3",
+                        "cls": "",
+                        "text": "O começo",
+                        "styles": {
+                          "fontSize": "32px",
+                          "fontWeight": "100",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "2px",
+                          "color": "rgb(119, 119, 119)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "175.109px",
+                          "height": "40px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "center",
+                          "border": "0px none rgb(119, 119, 119)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 175,
+                          "h": 40
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "RoundedCard_container__3bRLy undefined undefined",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "freight-big-pro, serif",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "275px",
+                  "height": "647px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "24px",
+                  "textAlign": "start",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "0.375s ease-in",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 275,
+                  "h": 647
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_cardContainer__3kRbh",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "275px",
+                      "height": "500px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 275,
+                      "h": 500
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "RoundedCard_imagesContainer__NlfXE",
+                        "styles": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "275px",
+                          "height": "500px",
+                          "display": "flex",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "borderRadius": "300px",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "hidden",
+                          "overflowX": "hidden",
+                          "position": "relative",
+                          "zIndex": "3",
+                          "opacity": "1",
+                          "transition": "0.25s ease-in-out",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 275,
+                          "h": 500
+                        },
+                        "children": [
+                          {
+                            "tag": "img",
+                            "cls": "undefined RoundedCard_front__c3Al1 RoundedCard_flipOut__NPG43",
+                            "styles": {
+                              "fontSize": "16px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "275px",
+                              "height": "500px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "start",
+                              "border": "0px none rgba(0, 0, 0, 0)",
+                              "overflow": "clip",
+                              "overflowX": "clip",
+                              "position": "absolute",
+                              "zIndex": "1",
+                              "opacity": "0.385831",
+                              "transform": "matrix3d(-0.351031, 0, -0.936364, 0, 0, 1, 0, 0, 0.936364, 0, -0.351031, 0, 0, 0, 0, 1)",
+                              "transition": "all",
+                              "cursor": "pointer",
+                              "objectFit": "cover",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "img": {
+                              "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-143.jpg&w=1920&q=75",
+                              "alt": "pre-wedding-images",
+                              "w": 1023,
+                              "h": 1536
+                            },
+                            "box": {
+                              "w": 97,
+                              "h": 500
+                            }
+                          },
+                          {
+                            "tag": "img",
+                            "cls": "undefined RoundedCard_back__DM8sm RoundedCard_flipIn__R3JYk",
+                            "styles": {
+                              "fontSize": "16px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "275px",
+                              "height": "500px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "start",
+                              "border": "0px none rgba(0, 0, 0, 0)",
+                              "overflow": "clip",
+                              "overflowX": "clip",
+                              "position": "absolute",
+                              "zIndex": "2",
+                              "opacity": "0.614169",
+                              "transform": "matrix3d(0.351031, 0, 0.936364, 0, 0, 1, 0, 0, -0.936364, 0, 0.351031, 0, 0, 0, 0, 1)",
+                              "transition": "all",
+                              "cursor": "pointer",
+                              "objectFit": "cover",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "img": {
+                              "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-21.jpg&w=1920&q=75",
+                              "alt": "pre-wedding-images",
+                              "w": 1440,
+                              "h": 960
+                            },
+                            "box": {
+                              "w": 97,
+                              "h": 500
+                            }
+                          },
+                          {
+                            "tag": "span",
+                            "cls": "RoundedCard_legend__iehw3 RoundedCard_innerLegend__tGpxt",
+                            "styles": {
+                              "fontSize": "94px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "lineHeight": "88px",
+                              "color": "rgb(255, 255, 255)",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "104.156px",
+                              "height": "88px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "right",
+                              "border": "0px none rgb(255, 255, 255)",
+                              "overflow": "visible",
+                              "overflowX": "visible",
+                              "position": "absolute",
+                              "top": "412px",
+                              "right": "-20px",
+                              "left": "190.844px",
+                              "zIndex": "3",
+                              "inset": "412px -20px 0px 190.844px",
+                              "opacity": "1",
+                              "transition": "opacity 0.25s ease-in-out",
+                              "cursor": "pointer",
+                              "objectFit": "fill",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "box": {
+                              "w": 104,
+                              "h": 88
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "span",
+                        "cls": "RoundedCard_legend__iehw3 RoundedCard_outterLegend__FSKPt",
+                        "styles": {
+                          "fontSize": "94px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "lineHeight": "88px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "104.156px",
+                          "height": "88px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "right",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "absolute",
+                          "top": "412px",
+                          "right": "-20px",
+                          "left": "190.844px",
+                          "inset": "412px -20px 0px 190.844px",
+                          "opacity": "1",
+                          "transition": "opacity 0.25s ease-in-out",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 104,
+                          "h": 88
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_splitter__cMHa2",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundImage": "linear-gradient(rgb(211, 159, 66) 10%, rgb(255, 255, 255))",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "3px",
+                      "height": "40px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s ease-in-out",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 3,
+                      "h": 40
+                    }
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_dates__365Im",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "151.844px",
+                      "height": "59px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s ease-in-out",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 152,
+                      "h": 59
+                    },
+                    "children": [
+                      {
+                        "tag": "span",
+                        "cls": "",
+                        "text": "18 Nov 2023",
+                        "styles": {
+                          "fontSize": "14px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(170, 170, 170)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "display": "inline",
+                          "flexDirection": "row",
+                          "textAlign": "center",
+                          "border": "0px none rgb(170, 170, 170)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 112,
+                          "h": 18
+                        }
+                      },
+                      {
+                        "tag": "h3",
+                        "cls": "",
+                        "text": "O pedido",
+                        "styles": {
+                          "fontSize": "32px",
+                          "fontWeight": "100",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "2px",
+                          "color": "rgb(119, 119, 119)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "151.844px",
+                          "height": "40px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "center",
+                          "border": "0px none rgb(119, 119, 119)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 152,
+                          "h": 40
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "RoundedCard_container__3bRLy undefined undefined",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "freight-big-pro, serif",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "275px",
+                  "height": "647px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "24px",
+                  "textAlign": "start",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "0.375s ease-in",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 275,
+                  "h": 647
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_cardContainer__3kRbh",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "275px",
+                      "height": "500px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 275,
+                      "h": 500
+                    },
+                    "children": [
+                      {
+                        "tag": "div",
+                        "cls": "RoundedCard_imagesContainer__NlfXE",
+                        "styles": {
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "275px",
+                          "height": "500px",
+                          "display": "flex",
+                          "flexDirection": "row",
+                          "textAlign": "start",
+                          "borderRadius": "300px",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "hidden",
+                          "overflowX": "hidden",
+                          "position": "relative",
+                          "zIndex": "3",
+                          "opacity": "1",
+                          "transition": "0.25s ease-in-out",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 275,
+                          "h": 500
+                        },
+                        "children": [
+                          {
+                            "tag": "img",
+                            "cls": "undefined RoundedCard_front__c3Al1 ",
+                            "styles": {
+                              "fontSize": "16px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "275px",
+                              "height": "500px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "start",
+                              "border": "0px none rgba(0, 0, 0, 0)",
+                              "overflow": "clip",
+                              "overflowX": "clip",
+                              "position": "absolute",
+                              "opacity": "1",
+                              "transition": "all",
+                              "cursor": "pointer",
+                              "objectFit": "cover",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "img": {
+                              "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-93.jpg&w=1920&q=75",
+                              "alt": "wedding-ask-images",
+                              "w": 1023,
+                              "h": 1536
+                            },
+                            "box": {
+                              "w": 275,
+                              "h": 500
+                            }
+                          },
+                          {
+                            "tag": "img",
+                            "cls": "undefined RoundedCard_back__DM8sm ",
+                            "styles": {
+                              "fontSize": "16px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "275px",
+                              "height": "500px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "start",
+                              "border": "0px none rgba(0, 0, 0, 0)",
+                              "overflow": "clip",
+                              "overflowX": "clip",
+                              "position": "absolute",
+                              "opacity": "1",
+                              "transition": "all",
+                              "cursor": "pointer",
+                              "objectFit": "cover",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "img": {
+                              "src": "https://www.amabillyegabriel.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Foe4ukkunu%2Famabilly_gab_love_session-65.jpg&w=1920&q=75",
+                              "alt": "wedding-ask-images",
+                              "w": 1440,
+                              "h": 960
+                            },
+                            "box": {
+                              "w": 275,
+                              "h": 500
+                            }
+                          },
+                          {
+                            "tag": "span",
+                            "cls": "RoundedCard_legend__iehw3 RoundedCard_innerLegend__tGpxt",
+                            "styles": {
+                              "fontSize": "94px",
+                              "fontWeight": "400",
+                              "fontFamily": "freight-big-pro, serif",
+                              "lineHeight": "88px",
+                              "color": "rgb(255, 255, 255)",
+                              "backgroundPosition": "0% 0%",
+                              "backgroundRepeat": "repeat",
+                              "width": "100.219px",
+                              "height": "88px",
+                              "display": "block",
+                              "flexDirection": "row",
+                              "textAlign": "right",
+                              "border": "0px none rgb(255, 255, 255)",
+                              "overflow": "visible",
+                              "overflowX": "visible",
+                              "position": "absolute",
+                              "top": "412px",
+                              "right": "-20px",
+                              "left": "194.781px",
+                              "zIndex": "3",
+                              "inset": "412px -20px 0px 194.781px",
+                              "opacity": "1",
+                              "transition": "opacity 0.25s ease-in-out",
+                              "cursor": "pointer",
+                              "objectFit": "fill",
+                              "writingMode": "horizontal-tb"
+                            },
+                            "box": {
+                              "w": 100,
+                              "h": 88
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "span",
+                        "cls": "RoundedCard_legend__iehw3 RoundedCard_outterLegend__FSKPt",
+                        "styles": {
+                          "fontSize": "94px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "lineHeight": "88px",
+                          "color": "rgb(0, 0, 0)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "100.219px",
+                          "height": "88px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "right",
+                          "border": "0px none rgb(0, 0, 0)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "absolute",
+                          "top": "412px",
+                          "right": "-20px",
+                          "left": "194.781px",
+                          "inset": "412px -20px 0px 194.781px",
+                          "opacity": "1",
+                          "transition": "opacity 0.25s ease-in-out",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 100,
+                          "h": 88
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_splitter__cMHa2",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundImage": "linear-gradient(rgb(211, 159, 66) 10%, rgb(255, 255, 255))",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "3px",
+                      "height": "40px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s ease-in-out",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 3,
+                      "h": 40
+                    }
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "RoundedCard_dates__365Im",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "232.219px",
+                      "height": "59px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "opacity 0.25s ease-in-out",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 232,
+                      "h": 59
+                    },
+                    "children": [
+                      {
+                        "tag": "span",
+                        "cls": "",
+                        "text": "29 Jun 2024",
+                        "styles": {
+                          "fontSize": "14px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "4px",
+                          "color": "rgb(170, 170, 170)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "display": "inline",
+                          "flexDirection": "row",
+                          "textAlign": "center",
+                          "border": "0px none rgb(170, 170, 170)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 110,
+                          "h": 18
+                        }
+                      },
+                      {
+                        "tag": "h3",
+                        "cls": "",
+                        "text": "O casamento",
+                        "styles": {
+                          "fontSize": "32px",
+                          "fontWeight": "100",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "2px",
+                          "color": "rgb(119, 119, 119)",
+                          "textTransform": "uppercase",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "232.219px",
+                          "height": "40px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "center",
+                          "border": "0px none rgb(119, 119, 119)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "cursor": "pointer",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 232,
+                          "h": 40
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "horizontal": {
+    "tag": "div",
+    "cls": "HorizontalScrollSection_horizontalScrollSection__yDnWr",
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundPosition": "0% 0%",
+      "backgroundRepeat": "repeat",
+      "width": "1440px",
+      "height": "4320px",
+      "display": "block",
+      "flexDirection": "row",
+      "textAlign": "start",
+      "border": "0px none rgb(0, 0, 0)",
+      "overflow": "visible",
+      "overflowX": "visible",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "writingMode": "horizontal-tb"
+    },
+    "box": {
+      "w": 1440,
+      "h": 4320
+    },
+    "children": [
+      {
+        "tag": "div",
+        "cls": "HorizontalScrollSection_scrollContainer__ST5d4",
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "backgroundRepeat": "repeat",
+          "width": "1440px",
+          "height": "900px",
+          "display": "flex",
+          "flexDirection": "row",
+          "textAlign": "start",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "position": "relative",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "transition": "all",
+          "objectFit": "fill",
+          "writingMode": "horizontal-tb"
+        },
+        "box": {
+          "w": 1440,
+          "h": 900
+        },
+        "children": [
+          {
+            "tag": "div",
+            "cls": "HorizontalScrollChild_childContainer__k_Hci",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "720px",
+              "height": "900px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 720,
+              "h": 900
+            },
+            "children": [
+              {
+                "tag": "section",
+                "cls": "TheCerimony_section__AbHCn",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundImage": "url(\"https://www.amabillyegabriel.com/folha2.jpg\")",
+                  "backgroundSize": "cover",
+                  "backgroundPosition": "50% 100%",
+                  "backgroundRepeat": "repeat",
+                  "padding": "16px",
+                  "width": "720px",
+                  "height": "900px",
+                  "minHeight": "720px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "12px",
+                  "textAlign": "center",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 720,
+                  "h": 900
+                },
+                "children": [
+                  {
+                    "tag": "h2",
+                    "cls": "",
+                    "text": "A Cerimônia",
+                    "styles": {
+                      "fontSize": "44px",
+                      "fontWeight": "200",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "311.312px",
+                      "height": "54px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 311,
+                      "h": 54
+                    }
+                  },
+                  {
+                    "tag": "a",
+                    "cls": "Button_button__aJ0V6 Button_primary__NvDjW",
+                    "text": "Veja informações sobre nosso Grande Dia!",
+                    "styles": {
+                      "fontSize": "18px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "22.5px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.85)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "padding": "13px 23px",
+                      "width": "400px",
+                      "height": "51.1875px",
+                      "maxWidth": "90%",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "textAlign": "center",
+                      "borderRadius": "30px",
+                      "border": "1px solid rgba(0, 0, 0, 0.5)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "absolute",
+                      "top": "424.406px",
+                      "right": "880px",
+                      "bottom": "424.406px",
+                      "left": "160px",
+                      "inset": "424.406px 880px 424.406px 160px",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 80)",
+                      "transition": "0.25s",
+                      "cursor": "pointer",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "href": "/pt/dicas-e-instrucoes/cerimonia",
+                    "box": {
+                      "w": 400,
+                      "h": 51
+                    }
+                  },
+                  {
+                    "tag": "div",
+                    "cls": "TheCerimony_address__uBOsy address",
+                    "styles": {
+                      "fontSize": "20px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "1.2px",
+                      "color": "rgb(113, 113, 113)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "363.125px",
+                      "height": "58px",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "gap": "8px",
+                      "textAlign": "center",
+                      "border": "0px none rgb(113, 113, 113)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "absolute",
+                      "top": "421px",
+                      "right": "898.438px",
+                      "bottom": "421px",
+                      "left": "178.438px",
+                      "inset": "421px 898.438px 421px 178.438px",
+                      "opacity": "0",
+                      "transform": "matrix(1, 0, 0, 1, 0, -180)",
+                      "transition": "opacity 0.5s",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 363,
+                      "h": 58
+                    },
+                    "children": [
+                      {
+                        "tag": "span",
+                        "cls": "",
+                        "text": "Caioçara, Jarinu - SP, 13240-000",
+                        "styles": {
+                          "fontSize": "20px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "1.2px",
+                          "color": "rgb(113, 113, 113)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "363.125px",
+                          "height": "25px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "center",
+                          "border": "0px none rgb(113, 113, 113)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 363,
+                          "h": 25
+                        }
+                      },
+                      {
+                        "tag": "span",
+                        "cls": "",
+                        "text": "Estrada Municipal do Bairro Caioçara 1100",
+                        "styles": {
+                          "fontSize": "20px",
+                          "fontWeight": "400",
+                          "fontFamily": "freight-big-pro, serif",
+                          "letterSpacing": "1.2px",
+                          "color": "rgb(113, 113, 113)",
+                          "backgroundPosition": "0% 0%",
+                          "backgroundRepeat": "repeat",
+                          "width": "363.125px",
+                          "height": "25px",
+                          "display": "block",
+                          "flexDirection": "row",
+                          "textAlign": "center",
+                          "border": "0px none rgb(113, 113, 113)",
+                          "overflow": "visible",
+                          "overflowX": "visible",
+                          "position": "static",
+                          "opacity": "1",
+                          "transition": "all",
+                          "objectFit": "fill",
+                          "writingMode": "horizontal-tb"
+                        },
+                        "box": {
+                          "w": 363,
+                          "h": 25
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "HorizontalScrollChild_childContainer__k_Hci",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "720px",
+              "height": "900px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 720,
+              "h": 900
+            },
+            "children": [
+              {
+                "tag": "section",
+                "cls": "Gifts_section__0k0AE",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(255, 255, 255)",
+                  "backgroundImage": "url(\"https://www.amabillyegabriel.com/tulipa.jpg\")",
+                  "backgroundSize": "cover",
+                  "backgroundPosition": "100% 100%",
+                  "backgroundRepeat": "repeat",
+                  "padding": "16px",
+                  "width": "720px",
+                  "height": "900px",
+                  "minHeight": "720px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "12px",
+                  "textAlign": "center",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 720,
+                  "h": 900
+                },
+                "children": [
+                  {
+                    "tag": "h2",
+                    "cls": "",
+                    "text": "Lista de Presentes",
+                    "styles": {
+                      "fontSize": "44px",
+                      "fontWeight": "200",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(255, 255, 255)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "469.375px",
+                      "height": "54px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 469,
+                      "h": 54
+                    }
+                  },
+                  {
+                    "tag": "a",
+                    "cls": "Button_button__aJ0V6 Button_secondary__PNkAv",
+                    "text": "Cheque nossa lista de presentes",
+                    "styles": {
+                      "fontSize": "18px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "22.5px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(255, 255, 255, 0.85)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "padding": "13px 23px",
+                      "width": "400px",
+                      "height": "51.1875px",
+                      "maxWidth": "90%",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "textAlign": "center",
+                      "borderRadius": "30px",
+                      "border": "1px solid rgba(255, 255, 255, 0.5)",
+                      "boxShadow": "rgba(255, 255, 255, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "absolute",
+                      "top": "424.406px",
+                      "right": "160px",
+                      "bottom": "424.406px",
+                      "left": "880px",
+                      "inset": "424.406px 160px 424.406px 880px",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 80)",
+                      "transition": "0.25s",
+                      "cursor": "pointer",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "href": "/pt/presentes",
+                    "box": {
+                      "w": 400,
+                      "h": 51
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "HorizontalScrollChild_childContainer__k_Hci",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "720px",
+              "height": "900px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 720,
+              "h": 900
+            },
+            "children": [
+              {
+                "tag": "section",
+                "cls": "DressCode_section__fsEH2",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundImage": "url(\"https://www.amabillyegabriel.com/girassol.jpg\")",
+                  "backgroundSize": "cover",
+                  "backgroundPosition": "50% 45px",
+                  "backgroundRepeat": "repeat",
+                  "padding": "16px",
+                  "width": "720px",
+                  "height": "900px",
+                  "minHeight": "720px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "12px",
+                  "textAlign": "center",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "relative",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 720,
+                  "h": 900
+                },
+                "children": [
+                  {
+                    "tag": "h2",
+                    "cls": "",
+                    "text": "Código de Vestimenta",
+                    "styles": {
+                      "fontSize": "44px",
+                      "fontWeight": "200",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "562.469px",
+                      "height": "54px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 562,
+                      "h": 54
+                    }
+                  },
+                  {
+                    "tag": "a",
+                    "cls": "Button_button__aJ0V6 Button_primary__NvDjW",
+                    "text": "Confira o dresscode",
+                    "styles": {
+                      "fontSize": "18px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "22.5px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.85)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "padding": "13px 23px",
+                      "width": "400px",
+                      "height": "51.1875px",
+                      "maxWidth": "90%",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "textAlign": "center",
+                      "borderRadius": "30px",
+                      "border": "1px solid rgba(0, 0, 0, 0.5)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "absolute",
+                      "top": "424.406px",
+                      "right": "160px",
+                      "bottom": "424.406px",
+                      "left": "160px",
+                      "inset": "424.406px 160px",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 80)",
+                      "transition": "0.25s",
+                      "cursor": "pointer",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "href": "/pt/dicas-e-instrucoes/codigo-de-vestimenta",
+                    "box": {
+                      "w": 400,
+                      "h": 51
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "HorizontalScrollChild_childContainer__k_Hci",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "720px",
+              "height": "900px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 720,
+              "h": 900
+            },
+            "children": [
+              {
+                "tag": "section",
+                "cls": "Accommodation_section__aOgXt",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(255, 255, 255)",
+                  "backgroundImage": "url(\"https://www.amabillyegabriel.com/dandelion.jpg\")",
+                  "backgroundSize": "cover",
+                  "backgroundPosition": "-25px -20px",
+                  "backgroundRepeat": "repeat",
+                  "padding": "16px",
+                  "width": "720px",
+                  "height": "900px",
+                  "minHeight": "720px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "12px",
+                  "textAlign": "center",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 720,
+                  "h": 900
+                },
+                "children": [
+                  {
+                    "tag": "h2",
+                    "cls": "",
+                    "text": "Hospedagem",
+                    "styles": {
+                      "fontSize": "44px",
+                      "fontWeight": "200",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(255, 255, 255)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "310.219px",
+                      "height": "54px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 310,
+                      "h": 54
+                    }
+                  },
+                  {
+                    "tag": "a",
+                    "cls": "Button_button__aJ0V6 Button_secondary__PNkAv",
+                    "text": "Encontre lugares por perto para sua hospedagem!",
+                    "styles": {
+                      "fontSize": "18px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "22.5px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(255, 255, 255, 0.85)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "padding": "13px 23px",
+                      "width": "520px",
+                      "height": "51.1875px",
+                      "maxWidth": "90%",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "textAlign": "center",
+                      "borderRadius": "30px",
+                      "border": "1px solid rgba(255, 255, 255, 0.5)",
+                      "boxShadow": "rgba(255, 255, 255, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "absolute",
+                      "top": "424.406px",
+                      "right": "-1340px",
+                      "bottom": "424.406px",
+                      "left": "2260px",
+                      "inset": "424.406px -1340px 424.406px 2260px",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 80)",
+                      "transition": "0.25s",
+                      "cursor": "pointer",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "href": "/pt/dicas-e-instrucoes/hospedagem",
+                    "box": {
+                      "w": 520,
+                      "h": 51
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "HorizontalScrollChild_childContainer__k_Hci",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "720px",
+              "height": "900px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 720,
+              "h": 900
+            },
+            "children": [
+              {
+                "tag": "section",
+                "cls": "Poems_section__x5I1R",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundImage": "url(\"https://www.amabillyegabriel.com/planta.jpg\")",
+                  "backgroundSize": "cover",
+                  "backgroundPosition": "50% 100%",
+                  "backgroundRepeat": "repeat",
+                  "padding": "16px",
+                  "width": "720px",
+                  "height": "900px",
+                  "minHeight": "720px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "12px",
+                  "textAlign": "center",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 720,
+                  "h": 900
+                },
+                "children": [
+                  {
+                    "tag": "h2",
+                    "cls": "",
+                    "text": "Poemas",
+                    "styles": {
+                      "fontSize": "44px",
+                      "fontWeight": "200",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(0, 0, 0)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "186.719px",
+                      "height": "54px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 187,
+                      "h": 54
+                    }
+                  },
+                  {
+                    "tag": "a",
+                    "cls": "Button_button__aJ0V6 Button_primary__NvDjW",
+                    "text": "Poemas que trocamos ao longo dos anos!",
+                    "styles": {
+                      "fontSize": "18px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "22.5px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.85)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "padding": "13px 23px",
+                      "width": "400px",
+                      "height": "51.1875px",
+                      "maxWidth": "90%",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "textAlign": "center",
+                      "borderRadius": "30px",
+                      "border": "1px solid rgba(0, 0, 0, 0.5)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "absolute",
+                      "top": "424.406px",
+                      "right": "-2000px",
+                      "bottom": "424.406px",
+                      "left": "3040px",
+                      "inset": "424.406px -2000px 424.406px 3040px",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 80)",
+                      "transition": "0.25s",
+                      "cursor": "pointer",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "href": "/pt/nossa-historia",
+                    "box": {
+                      "w": 400,
+                      "h": 51
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "HorizontalScrollChild_childContainer__k_Hci",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "720px",
+              "height": "900px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 720,
+              "h": 900
+            },
+            "children": [
+              {
+                "tag": "section",
+                "cls": "Gallery_section__2M_De",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(255, 255, 255)",
+                  "backgroundImage": "url(\"https://www.amabillyegabriel.com/final.jpg\")",
+                  "backgroundSize": "cover",
+                  "backgroundPosition": "50% 100%",
+                  "backgroundRepeat": "repeat",
+                  "padding": "16px",
+                  "width": "720px",
+                  "height": "900px",
+                  "minHeight": "720px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "gap": "12px",
+                  "textAlign": "center",
+                  "border": "0px none rgb(255, 255, 255)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 720,
+                  "h": 900
+                },
+                "children": [
+                  {
+                    "tag": "h2",
+                    "cls": "",
+                    "text": "Galeria",
+                    "styles": {
+                      "fontSize": "44px",
+                      "fontWeight": "200",
+                      "fontFamily": "freight-big-pro, serif",
+                      "letterSpacing": "4px",
+                      "color": "rgb(255, 255, 255)",
+                      "textTransform": "uppercase",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "199.734px",
+                      "height": "54px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "center",
+                      "border": "0px none rgb(255, 255, 255)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 200,
+                      "h": 54
+                    }
+                  },
+                  {
+                    "tag": "a",
+                    "cls": "Button_button__aJ0V6 Button_secondary__PNkAv",
+                    "text": "As fotos do nosso pré-wedding",
+                    "styles": {
+                      "fontSize": "18px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "22.5px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(255, 255, 255, 0.85)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "padding": "13px 23px",
+                      "width": "400px",
+                      "height": "51.1875px",
+                      "maxWidth": "90%",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "textAlign": "center",
+                      "borderRadius": "30px",
+                      "border": "1px solid rgba(255, 255, 255, 0.5)",
+                      "boxShadow": "rgba(255, 255, 255, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "absolute",
+                      "top": "424.406px",
+                      "right": "-2720px",
+                      "bottom": "424.406px",
+                      "left": "3760px",
+                      "inset": "424.406px -2720px 424.406px 3760px",
+                      "opacity": "1",
+                      "transform": "matrix(1, 0, 0, 1, 0, 80)",
+                      "transition": "0.25s",
+                      "cursor": "pointer",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "href": "/pt/album-de-fotos",
+                    "box": {
+                      "w": 400,
+                      "h": 51
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ourstory": {
+    "tag": "section",
+    "cls": "OurStorySection_section__6O9YV",
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundPosition": "0% 0%",
+      "backgroundRepeat": "repeat",
+      "width": "1440px",
+      "height": "854px",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "textAlign": "start",
+      "border": "0px none rgb(0, 0, 0)",
+      "overflow": "hidden",
+      "overflowX": "hidden",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "writingMode": "horizontal-tb"
+    },
+    "box": {
+      "w": 1440,
+      "h": 854
+    },
+    "children": [
+      {
+        "tag": "div",
+        "cls": "OurStorySection_container__GfFFj",
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(0, 0, 0)",
+          "backgroundSize": "cover",
+          "backgroundPosition": "0px 60%",
+          "backgroundRepeat": "repeat",
+          "padding": "128px",
+          "width": "1440px",
+          "height": "854px",
+          "maxWidth": "2400px",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flex-start",
+          "alignItems": "flex-start",
+          "gap": "128px",
+          "textAlign": "start",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "writingMode": "horizontal-tb"
+        },
+        "box": {
+          "w": 1440,
+          "h": 854
+        },
+        "children": [
+          {
+            "tag": "div",
+            "cls": "OurStorySlogan_slogan__B6909",
+            "styles": {
+              "fontSize": "72px",
+              "fontWeight": "400",
+              "fontFamily": "freight-big-pro, serif",
+              "lineHeight": "125px",
+              "color": "rgb(26, 26, 26)",
+              "textTransform": "uppercase",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "771.844px",
+              "height": "250px",
+              "display": "block",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(26, 26, 26)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "relative",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 772,
+              "h": 250
+            },
+            "children": [
+              {
+                "tag": "h2",
+                "cls": "OurStorySlogan_firstLine__ui4B3",
+                "text": "Nossa",
+                "styles": {
+                  "fontSize": "108px",
+                  "fontWeight": "200",
+                  "fontFamily": "freight-big-pro, serif",
+                  "lineHeight": "125px",
+                  "color": "rgba(15, 15, 15, 0.35)",
+                  "textTransform": "uppercase",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "margin": "0px 0px 0px 11.34px",
+                  "width": "760.516px",
+                  "height": "125px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "textAlign": "start",
+                  "border": "0px none rgba(15, 15, 15, 0.35)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 761,
+                  "h": 125
+                }
+              },
+              {
+                "tag": "h2",
+                "cls": "OurStorySlogan_secondLine__PX1hh",
+                "text": "história",
+                "styles": {
+                  "fontSize": "180px",
+                  "fontWeight": "200",
+                  "fontFamily": "freight-big-pro, serif",
+                  "lineHeight": "125px",
+                  "color": "rgb(26, 26, 26)",
+                  "textTransform": "uppercase",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "771.844px",
+                  "height": "125px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "textAlign": "start",
+                  "border": "0px none rgb(26, 26, 26)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 772,
+                  "h": 125
+                }
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "cls": "OurStorySection_mainContainer__Ynkh_",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "1184px",
+              "height": "220px",
+              "display": "flex",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "alignItems": "flex-end",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "visible",
+              "overflowX": "visible",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 1184,
+              "h": 220
+            },
+            "children": [
+              {
+                "tag": "div",
+                "cls": "",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "185.25px",
+                  "height": "51.1875px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "textAlign": "start",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 185,
+                  "h": 51
+                },
+                "children": [
+                  {
+                    "tag": "a",
+                    "cls": "Button_button__aJ0V6 Button_primary__NvDjW",
+                    "text": "Continue lendo...",
+                    "styles": {
+                      "fontSize": "18px",
+                      "fontWeight": "400",
+                      "fontFamily": "freight-big-pro, serif",
+                      "lineHeight": "22.5px",
+                      "letterSpacing": "2px",
+                      "color": "rgba(0, 0, 0, 0.85)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "padding": "13px 23px",
+                      "width": "185.25px",
+                      "height": "51.1875px",
+                      "minHeight": "51.2px",
+                      "display": "flex",
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "textAlign": "center",
+                      "borderRadius": "30px",
+                      "border": "1px solid rgba(0, 0, 0, 0.5)",
+                      "boxShadow": "rgba(0, 0, 0, 0.02) 0px 1px 3px 0px",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "relative",
+                      "opacity": "1",
+                      "transition": "0.25s",
+                      "cursor": "pointer",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "href": "/pt/nossa-historia",
+                    "box": {
+                      "w": 185,
+                      "h": 51
+                    }
+                  }
+                ]
+              },
+              {
+                "tag": "div",
+                "cls": "OurStorySection_paragraph__0Krl1",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(26, 26, 26)",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "width": "350px",
+                  "height": "220px",
+                  "maxWidth": "350px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "textAlign": "right",
+                  "border": "0px none rgb(26, 26, 26)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 350,
+                  "h": 220
+                },
+                "children": [
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Kalmar, 1518-1519; Assim, costumávamos terminar nossos textos. Em uma cidade sonhada, onde nos encontrávamos em nossas imaginações. Talvez você encontre algumas dezenas de poemas escritos em nossas redes sociais com essa assinatura.",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(26, 26, 26)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "350px",
+                      "height": "120px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "right",
+                      "border": "0px none rgb(26, 26, 26)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 350,
+                      "h": 120
+                    }
+                  },
+                  {
+                    "tag": "p",
+                    "cls": "",
+                    "text": "Nos conhecemos em 10 de Abril de 2018. Gosto (eu, o noivo), de pensar que - guardadas as devidas proporções -, nos encontramos em um encontro às escuras do século XXI. Ela é meu primeiro amor.",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(26, 26, 26)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "width": "350px",
+                      "height": "100px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "textAlign": "right",
+                      "border": "0px none rgb(26, 26, 26)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 350,
+                      "h": 100
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "tag": "section",
+    "cls": "Footer_footer__QJKQ8",
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "backgroundSize": "cover",
+      "backgroundPosition": "50% 50%",
+      "backgroundRepeat": "repeat",
+      "padding": "32px 0px",
+      "width": "1440px",
+      "height": "150px",
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "textAlign": "start",
+      "overflow": "visible",
+      "overflowX": "visible",
+      "position": "static",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "writingMode": "horizontal-tb"
+    },
+    "box": {
+      "w": 1440,
+      "h": 150
+    },
+    "children": [
+      {
+        "tag": "div",
+        "cls": "",
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+          "color": "rgb(0, 0, 0)",
+          "backgroundPosition": "0% 0%",
+          "backgroundRepeat": "repeat",
+          "width": "80px",
+          "height": "84px",
+          "display": "block",
+          "flexDirection": "row",
+          "textAlign": "start",
+          "border": "0px none rgb(0, 0, 0)",
+          "overflow": "visible",
+          "overflowX": "visible",
+          "position": "static",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "writingMode": "horizontal-tb"
+        },
+        "box": {
+          "w": 80,
+          "h": 84
+        },
+        "children": [
+          {
+            "tag": "svg",
+            "cls": "[object SVGAnimatedString]",
+            "id": "Camada_1",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+              "color": "rgb(0, 0, 0)",
+              "backgroundPosition": "0% 0%",
+              "backgroundRepeat": "repeat",
+              "width": "80px",
+              "height": "80px",
+              "display": "inline",
+              "flexDirection": "row",
+              "textAlign": "start",
+              "border": "0px none rgb(0, 0, 0)",
+              "overflow": "hidden",
+              "overflowX": "hidden",
+              "position": "static",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "writingMode": "horizontal-tb"
+            },
+            "box": {
+              "w": 80,
+              "h": 80
+            },
+            "children": [
+              {
+                "tag": "g",
+                "cls": "[object SVGAnimatedString]",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                  "color": "rgb(0, 0, 0)",
+                  "backgroundPosition": "0% 0%",
+                  "backgroundRepeat": "repeat",
+                  "display": "inline",
+                  "flexDirection": "row",
+                  "textAlign": "start",
+                  "border": "0px none rgb(0, 0, 0)",
+                  "overflow": "visible",
+                  "overflowX": "visible",
+                  "position": "static",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "writingMode": "horizontal-tb"
+                },
+                "box": {
+                  "w": 53,
+                  "h": 80
+                },
+                "children": [
+                  {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "display": "inline",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 32,
+                      "h": 49
+                    }
+                  },
+                  {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "display": "inline",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 6,
+                      "h": 11
+                    }
+                  },
+                  {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "display": "inline",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 53,
+                      "h": 80
+                    }
+                  },
+                  {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "display": "inline",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 49,
+                      "h": 76
+                    }
+                  },
+                  {
+                    "tag": "path",
+                    "cls": "[object SVGAnimatedString]",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "__Inter_d65c78, __Inter_Fallback_d65c78",
+                      "color": "rgb(0, 0, 0)",
+                      "backgroundPosition": "0% 0%",
+                      "backgroundRepeat": "repeat",
+                      "display": "inline",
+                      "flexDirection": "row",
+                      "textAlign": "start",
+                      "border": "0px none rgb(0, 0, 0)",
+                      "overflow": "visible",
+                      "overflowX": "visible",
+                      "position": "static",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "writingMode": "horizontal-tb"
+                    },
+                    "box": {
+                      "w": 2,
+                      "h": 1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

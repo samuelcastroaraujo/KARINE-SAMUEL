@@ -1,0 +1,1 @@
+{"url":"http://localhost:3000","width":1440,"height":900,"wait":"networkidle","settle":2500,"sweep":[{"y":1500,"shot":"docs/design-references/qa-std-desktop.png"},{"y":3200,"shot":"docs/design-references/qa-horiz-desktop.png"}]}

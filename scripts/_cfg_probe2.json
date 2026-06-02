@@ -1,0 +1,5 @@
+{
+  "url": "https://www.amabillyegabriel.com/pt",
+  "width": 1440, "height": 900, "wait": "networkidle", "settle": 2500,
+  "evalFile": "scripts/_probe2.js", "out": "docs/research/probe2.json"
+}

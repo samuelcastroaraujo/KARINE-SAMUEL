@@ -1,0 +1,16 @@
+{
+  "url": "https://www.amabillyegabriel.com/pt",
+  "width": 390,
+  "height": 844,
+  "wait": "networkidle",
+  "settle": 2500,
+  "screenshot": "docs/design-references/mobile-fullpage.png",
+  "fullPage": true,
+  "sweep": [
+    { "y": 0, "shot": "docs/design-references/m-00-hero.png" },
+    { "y": 844, "shot": "docs/design-references/m-01.png" },
+    { "y": 1700, "shot": "docs/design-references/m-02.png" },
+    { "y": 2600, "shot": "docs/design-references/m-03.png" },
+    { "y": 3500, "shot": "docs/design-references/m-04.png" }
+  ]
+}

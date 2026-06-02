@@ -1,0 +1,1 @@
+{"url":"http://localhost:3000","width":390,"height":844,"wait":"networkidle","settle":2500,"sweep":[{"y":1200,"shot":"docs/design-references/qa-std-mobile.png"},{"y":3000,"shot":"docs/design-references/qa-horiz-mobile.png"},{"y":5000,"shot":"docs/design-references/qa-horiz-mobile2.png"}]}
